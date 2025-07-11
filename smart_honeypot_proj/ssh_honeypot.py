@@ -20,7 +20,7 @@ creds_audits_log_local_file_path = base_dir / 'smart_honeypot_proj' / 'log_files
 cmd_audits_log_local_file_path = base_dir / 'smart_honeypot_proj' / 'log_files' / 'cmd_audits.log'
 
 # SSH Server Host Key.  
-host_key = paramiko.RSAKey(filename=server_key,password="habdeir1")
+host_key = paramiko.RSAKey(filename=server_key,password="")
 
 # Logging Format.      
 logging_format = logging.Formatter('%(message)s')  
