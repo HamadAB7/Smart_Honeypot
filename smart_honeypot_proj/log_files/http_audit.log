@@ -1,0 +1,68 @@
+2025-05-01 14:30:57,372 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-01 14:30:57,380 - IP 127.0.0.1 accessed /dashboard
+2025-05-01 14:31:02,386 - IP 127.0.0.1 requested /backup.zip
+2025-05-01 14:31:03,670 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-01 14:31:05,117 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-01 14:37:18,089 - Login attempt from 127.0.0.1 - Username: ajsdkaj, Password: jsakd
+2025-05-01 14:37:26,251 - Login attempt from 127.0.0.1 - Username: admin, Password: password
+2025-05-01 14:37:26,251 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-01 14:37:26,255 - IP 127.0.0.1 accessed /dashboard
+2025-05-01 14:37:31,466 - IP 127.0.0.1 requested /backup.zip
+2025-05-01 14:37:33,148 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-01 14:37:40,268 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-01 14:39:08,294 - Login attempt from 127.0.0.1 - Username: admin, Password: admin
+2025-05-01 14:39:14,728 - Login attempt from 127.0.0.1 - Username: admin, Password: 12345678
+2025-05-01 14:39:21,182 - Login attempt from 127.0.0.1 - Username: admin, Password: 123234'
+2025-05-01 14:39:21,182 - [ALERT] Multiple failed logins from IP 127.0.0.1
+2025-05-01 14:39:26,888 - Login attempt from 127.0.0.1 - Username: admin, Password: password
+2025-05-01 14:39:26,889 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-01 14:39:26,895 - IP 127.0.0.1 accessed /dashboard
+2025-05-01 14:39:28,066 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-01 14:39:30,410 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-01 14:39:31,974 - IP 127.0.0.1 requested /backup.zip
+2025-05-01 14:53:34,769 - Login attempt from 127.0.0.1 - Username: admin, Password: password
+2025-05-01 14:53:34,769 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-01 14:53:35,074 - IP 127.0.0.1 accessed /dashboard
+2025-05-03 20:14:41,801 - Login attempt from 127.0.0.1 - Username: admin, Password: passsword
+2025-05-03 20:14:47,874 - Login attempt from 127.0.0.1 - Username: admin, Password: password
+2025-05-03 20:14:47,874 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-03 20:14:47,881 - IP 127.0.0.1 accessed /dashboard
+2025-05-09 17:26:09,252 - Login attempt from 127.0.0.1 - Username: admin, Password: 123
+2025-05-09 17:26:17,862 - Login attempt from 127.0.0.1 - Username: admin, Password: 1222222
+2025-05-09 17:26:20,860 - Login attempt from 127.0.0.1 - Username: 121212, Password: 2121
+2025-05-09 17:26:20,860 - [ALERT] Multiple failed logins from IP 127.0.0.1
+2025-05-17 16:04:17,007 - Login attempt from 127.0.0.1 - Username: username, Password: passwordf
+2025-05-17 16:04:23,787 - Login attempt from 127.0.0.1 - Username: username, Password: password
+2025-05-17 16:04:23,787 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-17 16:04:24,069 - IP 127.0.0.1 accessed /dashboard
+2025-05-17 16:04:35,560 - Login attempt from 127.0.0.1 - Username: username, Password: 1212
+2025-05-17 16:04:45,541 - Login attempt from 127.0.0.1 - Username: username, Password: password
+2025-05-17 16:04:45,541 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-17 16:04:45,822 - IP 127.0.0.1 accessed /dashboard
+2025-05-17 16:04:56,427 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-17 16:04:58,266 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-17 16:05:00,074 - IP 127.0.0.1 requested /backup.zip
+2025-05-17 16:06:37,735 - Login attempt from 127.0.0.1 - Username: admin, Password: userm
+2025-05-17 16:06:46,057 - Login attempt from 127.0.0.1 - Username: username, Password: password
+2025-05-17 16:06:46,057 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-17 16:06:46,066 - IP 127.0.0.1 accessed /dashboard
+2025-05-17 16:06:59,740 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-17 16:07:03,034 - IP 127.0.0.1 requested /backup.zip
+2025-05-17 16:07:04,488 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-17 16:07:12,427 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-18 18:32:42,438 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:28:00,598 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:28:42,571 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:34:37,684 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:35:22,195 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 12:42:15,346 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 17:57:03,016 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 17:57:15,083 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 21:58:01,181 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 21:58:14,267 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 21:58:49,073 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 22:37:33,363 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 22:37:52,842 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 23:37:32,843 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-31 13:33:56,255 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-31 13:38:45,703 - IP 127.0.0.1 tried directory traversal: /etc/passwd

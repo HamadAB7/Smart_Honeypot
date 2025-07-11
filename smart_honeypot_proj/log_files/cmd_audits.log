@@ -1,0 +1,690 @@
+Command ls executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command ls executed by 127.0.0.1
+Command cat file1.txt executed by 127.0.0.1
+Command cat notes.txt executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command cd /etc executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat passwd executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat shadow executed by 127.0.0.1
+Command cat hosts executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls -la executed by 127.0.0.1
+Command mkdir hello executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cd hello executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command hello world executed by 127.0.0.1
+Command echo hello executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat file1.txt executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: ham
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command hll executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cd executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command whoami executed by 127.0.0.1
+Command cat secrets executed by 127.0.0.1
+Command cat secreta executed by 127.0.0.1
+Command cd secrets executed by 127.0.0.1
+Command cat secrets executed by 127.0.0.1
+Command cd .. executed by 127.0.0.1
+Command touch executed by 127.0.0.1
+Command touch hll.txt executed by 127.0.0.1
+Command mkdir kal executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command nano kal executed by 127.0.0.1
+Command cat kal executed by 127.0.0.1
+Command lslsls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command clear executed by 127.0.0.1
+Command cls executed by 127.0.0.1
+Command cls executed by 127.0.0.1
+Command clear executed by 127.0.0.1
+Command logout executed by 127.0.0.1
+Command logiut executed by 127.0.0.1
+Command logout executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: hamad, password: 1234
+Client 127.0.0.1 attempted connection with username: username, password: password
+Client 127.0.0.1 attempted connection with username: username, password: 1234
+Client 127.0.0.1 attempted connection with username: username, password: 12341234
+Client 127.0.0.1 attempted connection with username: username, password: 12342134
+Client 127.0.0.1 attempted connection with username: username, password: sd
+Client 127.0.0.1 attempted connection with username: username, password: sd
+Client 127.0.0.1 attempted connection with username: username, password: sds
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command ls executed by 127.0.0.1
+Command crets executed by 127.0.0.1
+Command cd secrets executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cd .. executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cd secrets executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat notes.txt executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command mkdir pa executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cd pa executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat secrets executed by 127.0.0.1
+Command whoami executed by 127.0.0.1
+Command exit executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command ls executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command whoami executed by 127.0.0.1
+Command as executed by 127.0.0.1
+Command cat secret executed by 127.0.0.1
+Command cd secret executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat notes.txt executed by 127.0.0.1
+Command cat file1.txt executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'ls' executed by 127.0.0.1
+Command b'cat secrets' executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'pw'executed by 127.0.0.1
+Command b'dpw'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'\x03exit'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'ls'executed by 127.0.0.1
+Command b'cat file1.txt'executed by 127.0.0.1
+Command b'\x7fcat secrets'executed by 127.0.0.1
+Command b'\x7fls'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'ls'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Command b'cat notes.txt'executed by 127.0.0.1
+Command b'cat secrets'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command b'ecit'executed by 127.0.0.1
+Command b'exxit'executed by 127.0.0.1
+Command b'wxit'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: paa
+Client 127.0.0.1 attempted connection with username: username, password: passsword
+Client 127.0.0.1 attempted connection with username: username, password: password
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'l'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Command b'\x18exit'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command b'ls'executed by 127.0.0.1
+Command b'cat passwd'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command b'cat passwd'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command b'ls'executed by 127.0.0.1
+Command b'cat notes.txt'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+Command b'ls'executed by 127.0.0.1
+Command b'cat notes.txt'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Client 127.0.0.1 attempted connection with username: username, password: root
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Client 127.0.0.1 attempted connection with username: john , password: root
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: root , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'ls'executed by 127.0.0.1
+Command b'cat notes.txt'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: username, password: root
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Client 127.0.0.1 attempted connection with username: test , password: root
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'ls'executed by 127.0.0.1
+Command b'cat notes.txt'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: root
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: root
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: root
+Client 127.0.0.1 attempted connection with username: admin, password: 123456
+Client 127.0.0.1 attempted connection with username: admin, password: admin
+Client 127.0.0.1 attempted connection with username: admin, password: admin123
+Client 127.0.0.1 attempted connection with username: admin, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: admin, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin
+Client 127.0.0.1 attempted connection with username: root , password: 123456
+Client 127.0.0.1 attempted connection with username: root , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: root , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: hamad, password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Client 127.0.0.1 attempted connection with username: john , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: toor
+Client 127.0.0.1 attempted connection with username: john , password: 123456
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: john , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: admin123
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: toor
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 12345
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: 123456
+Client 127.0.0.1 attempted connection with username: test , password: admin
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: test , password: root
+Brute-force detected from 127.0.0.1 — blocking further attempts.
+Client 127.0.0.1 attempted connection with username: username, password: 12345
+Command b'ls'executed by 127.0.0.1
+Command b'cat notes.txt'executed by 127.0.0.1

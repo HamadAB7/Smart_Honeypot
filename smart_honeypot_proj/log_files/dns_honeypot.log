@@ -1,0 +1,36 @@
+2025-04-19 23:12:40,409 - IP: 127.0.0.1, Query: login.example.com., Type: A
+2025-04-19 23:13:07,787 - IP: 127.0.0.1, Query: admin.corp.net., Type: A
+2025-04-19 23:13:20,404 - IP: 127.0.0.1, Query: internal.db.com., Type: A
+2025-04-19 23:13:32,214 - IP: 127.0.0.1, Query: ., Type: NS
+2025-05-01 12:07:58,556 - IP: 127.0.0.1, Query: google.com., Type: A
+2025-05-01 12:08:08,374 - IP: 127.0.0.1, Query: admin.corp.net., Type: A
+2025-05-01 12:08:08,375 - [ALERT] 🚨 Sensitive domain queried: admin.corp.net. from IP: 127.0.0.1
+2025-05-01 12:08:22,413 - IP: 127.0.0.1, Query: mail.fake.com., Type: TXT
+2025-05-01 12:08:22,413 - [ALERT] 🚨 Sensitive domain queried: mail.fake.com. from IP: 127.0.0.1
+2025-05-01 12:08:22,413 - [RARE TYPE] Suspicious record type (TXT) queried from 127.0.0.1
+2025-05-01 12:08:43,898 - IP: 127.0.0.1, Query: host1.com., Type: A
+2025-05-01 12:08:43,918 - IP: 127.0.0.1, Query: host2.com., Type: A
+2025-05-01 12:08:43,935 - IP: 127.0.0.1, Query: host3.com., Type: A
+2025-05-01 12:08:43,935 - [ALERT] 🚨 Excessive queries detected from 127.0.0.1 (count: 6)
+2025-05-01 12:08:43,943 - IP: 127.0.0.1, Query: host4.com., Type: A
+2025-05-01 12:08:43,943 - [ALERT] 🚨 Excessive queries detected from 127.0.0.1 (count: 7)
+2025-05-01 12:08:43,961 - IP: 127.0.0.1, Query: host5.com., Type: A
+2025-05-01 12:08:43,961 - [ALERT] 🚨 Excessive queries detected from 127.0.0.1 (count: 8)
+2025-05-01 12:08:43,980 - IP: 127.0.0.1, Query: host6.com., Type: A
+2025-05-01 12:08:43,980 - [ALERT] 🚨 Excessive queries detected from 127.0.0.1 (count: 9)
+2025-05-19 18:54:14,212 - IP: 127.0.0.1, Query: google.com., Type: A
+2025-05-19 18:54:22,971 - IP: 127.0.0.1, Query: google.com., Type: A
+2025-05-19 18:54:55,883 - IP: 127.0.0.1, Query: login.example.com., Type: A
+2025-05-20 12:27:33,763 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 12:27:33,764 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 12:31:54,679 - IP: 127.0.0.1, Query: login.example.com., Type: A
+2025-05-20 21:57:19,928 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 21:57:19,928 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 22:36:51,512 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 22:36:51,512 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 23:36:57,485 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 23:36:57,486 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-31 13:33:43,408 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-31 13:33:43,409 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-31 13:38:41,845 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-31 13:38:41,846 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1

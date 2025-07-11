@@ -1,0 +1,2374 @@
+2025-04-19 23:00:46,974 - Connection from 127.0.0.1
+2025-04-19 23:00:51,002 - Credentials entered from 127.0.0.1 - Username: hamad, Password: 1234
+2025-04-19 23:00:53,199 - Command from 127.0.0.1: help
+2025-04-19 23:00:53,946 - Command from 127.0.0.1: ls
+2025-04-19 23:01:03,499 - Command from 127.0.0.1: cat flag.txt
+2025-04-19 23:01:03,499 - [AI ALERT] Suspicious activity detected from 127.0.0.1
+2025-04-19 23:01:09,921 - Command from 127.0.0.1: ls
+2025-04-19 23:01:10,646 - Command from 127.0.0.1: pwd
+2025-05-01 11:25:04,861 - Connection from 127.0.0.1
+2025-05-01 11:25:30,391 - Credentials entered from 127.0.0.1 - Username: hamad, Password: 1234
+2025-05-01 11:25:33,095 - Command from 127.0.0.1: ls
+2025-05-01 11:25:45,269 - Command from 127.0.0.1: cat notes.txt
+2025-05-01 11:25:45,269 - [AI ALERT] Suspicious activity detected from 127.0.0.1
+2025-05-01 11:25:58,770 - Command from 127.0.0.1: cat flag.txt
+2025-05-01 11:26:06,472 - Command from 127.0.0.1: cat config.txt
+2025-05-01 11:26:14,376 - Command from 127.0.0.1: cd passwd
+2025-05-01 11:26:15,419 - Command from 127.0.0.1: ls
+2025-05-01 11:26:17,699 - Command from 127.0.0.1: ls -la
+2025-05-01 11:26:20,018 - Command from 127.0.0.1: cat config
+2025-05-01 11:26:24,533 - Command from 127.0.0.1: cat passed
+2025-05-01 11:26:27,988 - Command from 127.0.0.1: cat passwds
+2025-05-01 11:26:33,351 - Command from 127.0.0.1: cat passwd
+2025-05-01 11:26:37,637 - Command from 127.0.0.1: cat root
+2025-05-01 11:26:45,881 - Command from 127.0.0.1: cat shadow
+2025-05-01 11:26:50,543 - Error with 127.0.0.1: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-05-01 11:50:07,348 - Connection from 127.0.0.1
+2025-05-01 11:50:12,150 - [FAILED LOGIN] IP: 127.0.0.1, Username: admin, Password: admin (Attempt #1)
+2025-05-01 11:50:16,666 - Connection from 127.0.0.1
+2025-05-01 11:50:20,923 - [FAILED LOGIN] IP: 127.0.0.1, Username: admin, Password: 2212 (Attempt #2)
+2025-05-01 11:50:24,226 - Connection from 127.0.0.1
+2025-05-01 11:50:27,059 - [FAILED LOGIN] IP: 127.0.0.1, Username: hamad, Password: mamam (Attempt #3)
+2025-05-01 11:50:27,060 - [BRUTE FORCE ALERT] Too many failed logins from 127.0.0.1
+2025-05-01 11:50:29,007 - Connection from 127.0.0.1
+2025-05-01 11:50:31,135 - [LOGIN SUCCESS] IP: 127.0.0.1, Username: admin, Password: 1234
+2025-05-01 11:50:32,598 - 127.0.0.1 executed: ls
+2025-05-01 11:50:36,763 - 127.0.0.1 executed: cd passwd
+2025-05-01 11:50:36,763 - [AI ALERT] Suspicious behavior from 127.0.0.1
+2025-05-01 11:50:42,676 - 127.0.0.1 executed: cd ..
+2025-05-01 11:50:44,254 - 127.0.0.1 executed: ls
+2025-05-01 11:50:46,485 - 127.0.0.1 executed: ls -a
+2025-05-01 11:50:48,221 - 127.0.0.1 executed: help
+2025-05-01 11:50:53,768 - 127.0.0.1 executed: pwd
+2025-05-01 11:51:04,460 - [ERROR] With 127.0.0.1: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-05-01 11:51:44,466 - Connection from 127.0.0.1
+2025-05-01 11:51:47,531 - [LOGIN SUCCESS] IP: 127.0.0.1, Username: admin, Password: 1234
+2025-05-01 11:51:51,391 - 127.0.0.1 executed: cd /etc
+2025-05-01 11:51:51,391 - [AI ALERT] Suspicious behavior from 127.0.0.1
+2025-05-01 11:51:52,481 - 127.0.0.1 executed: ls
+2025-05-01 11:51:58,329 - 127.0.0.1 executed: cat shadow
+2025-05-01 11:52:05,693 - 127.0.0.1 executed: whoami
+2025-05-01 11:52:13,909 - 127.0.0.1 executed: uname -a
+2025-05-01 11:52:18,513 - 127.0.0.1 executed: netstat
+2025-05-01 11:52:31,877 - 127.0.0.1 executed: exit
+2025-05-06 19:05:34,596 - concurrency model: async
+2025-05-06 19:05:34,597 - masquerade (NAT) address: None
+2025-05-06 19:05:34,598 - passive ports: None
+2025-05-06 19:05:34,598 - >>> starting FTP server on 0.0.0.0:2121, pid=24303 <<<
+2025-05-06 19:05:39,236 - received interrupt signal
+2025-05-06 19:05:39,236 - >>> shutting down FTP server, 1 socket(s), pid=24303 <<<
+2025-05-06 19:10:10,361 - concurrency model: async
+2025-05-06 19:10:10,361 - masquerade (NAT) address: None
+2025-05-06 19:10:10,361 - passive ports: None
+2025-05-06 19:10:10,361 - >>> starting FTP server on 0.0.0.0:2121, pid=25278 <<<
+2025-05-06 19:10:15,130 - received interrupt signal
+2025-05-06 19:10:15,131 - >>> shutting down FTP server, 1 socket(s), pid=25278 <<<
+2025-05-06 19:10:46,683 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5353
+ * Running on http://172.26.242.168:5353
+2025-05-06 19:10:46,683 - [33mPress CTRL+C to quit[0m
+2025-05-06 19:10:46,684 -  * Restarting with stat
+2025-05-06 19:10:47,046 -  * Debugger is active!
+2025-05-06 19:10:47,053 -  * Debugger PIN: 917-810-834
+2025-05-06 19:11:10,537 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5353
+ * Running on http://172.26.242.168:5353
+2025-05-06 19:11:10,537 - [33mPress CTRL+C to quit[0m
+2025-05-06 19:11:10,537 -  * Restarting with stat
+2025-05-06 19:11:10,911 -  * Debugger is active!
+2025-05-06 19:11:10,913 -  * Debugger PIN: 917-810-834
+2025-05-06 19:11:22,581 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.26.242.168:8080
+2025-05-06 19:11:22,581 - [33mPress CTRL+C to quit[0m
+2025-05-06 19:11:22,582 -  * Restarting with stat
+2025-05-06 19:11:22,926 -  * Debugger is active!
+2025-05-06 19:11:22,927 -  * Debugger PIN: 917-810-834
+2025-05-06 19:11:49,176 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.242.168:5000
+2025-05-06 19:11:49,176 - [33mPress CTRL+C to quit[0m
+2025-05-06 19:11:49,176 -  * Restarting with stat
+2025-05-06 19:11:49,527 -  * Debugger is active!
+2025-05-06 19:11:49,529 -  * Debugger PIN: 917-810-834
+2025-05-06 19:11:59,406 - 127.0.0.1 - - [06/May/2025 19:11:59] "GET / HTTP/1.1" 200 -
+2025-05-06 19:11:59,667 - 127.0.0.1 - - [06/May/2025 19:11:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-06 19:12:18,676 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.242.168:5000
+2025-05-06 19:12:18,676 - [33mPress CTRL+C to quit[0m
+2025-05-06 19:12:18,677 -  * Restarting with stat
+2025-05-06 19:12:19,083 -  * Debugger is active!
+2025-05-06 19:12:19,084 -  * Debugger PIN: 917-810-834
+2025-05-06 19:12:21,430 - 127.0.0.1 - - [06/May/2025 19:12:21] "GET / HTTP/1.1" 200 -
+2025-05-09 01:48:52,117 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5353
+ * Running on http://172.26.242.168:5353
+2025-05-09 01:48:52,117 - [33mPress CTRL+C to quit[0m
+2025-05-09 01:48:52,118 -  * Restarting with stat
+2025-05-09 01:48:52,852 -  * Debugger is active!
+2025-05-09 01:48:52,862 -  * Debugger PIN: 206-041-886
+2025-05-09 17:25:22,530 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://172.26.242.168:5050
+2025-05-09 17:25:22,530 - [33mPress CTRL+C to quit[0m
+2025-05-09 17:25:22,531 -  * Restarting with stat
+2025-05-09 17:25:23,433 -  * Debugger is active!
+2025-05-09 17:25:23,444 -  * Debugger PIN: 206-041-886
+2025-05-09 17:25:45,349 - 127.0.0.1 - - [09/May/2025 17:25:45] "GET / HTTP/1.1" 200 -
+2025-05-09 17:25:45,508 - 127.0.0.1 - - [09/May/2025 17:25:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-09 17:26:09,252 - Login attempt from 127.0.0.1 - Username: admin, Password: 123
+2025-05-09 17:26:09,254 - 127.0.0.1 - - [09/May/2025 17:26:09] "[32mPOST /wp-admin-login HTTP/1.1[0m" 302 -
+2025-05-09 17:26:09,571 - 127.0.0.1 - - [09/May/2025 17:26:09] "GET / HTTP/1.1" 200 -
+2025-05-09 17:26:17,862 - Login attempt from 127.0.0.1 - Username: admin, Password: 1222222
+2025-05-09 17:26:17,863 - 127.0.0.1 - - [09/May/2025 17:26:17] "[32mPOST /wp-admin-login HTTP/1.1[0m" 302 -
+2025-05-09 17:26:17,869 - 127.0.0.1 - - [09/May/2025 17:26:17] "GET / HTTP/1.1" 200 -
+2025-05-09 17:26:20,860 - Login attempt from 127.0.0.1 - Username: 121212, Password: 2121
+2025-05-09 17:26:20,860 - [ALERT] Multiple failed logins from IP 127.0.0.1
+2025-05-09 17:26:20,861 - 127.0.0.1 - - [09/May/2025 17:26:20] "[32mPOST /wp-admin-login HTTP/1.1[0m" 302 -
+2025-05-09 17:26:21,166 - 127.0.0.1 - - [09/May/2025 17:26:21] "GET / HTTP/1.1" 200 -
+2025-05-09 17:28:18,558 - Login attempt from 127.0.0.1 - Username: admin, Password: password
+2025-05-09 17:28:18,558 - [SUCCESS] IP 127.0.0.1 logged in successfully.
+2025-05-09 17:28:18,558 - 127.0.0.1 - - [09/May/2025 17:28:18] "[32mPOST /wp-admin-login HTTP/1.1[0m" 302 -
+2025-05-09 17:28:18,563 - IP 127.0.0.1 accessed /dashboard
+2025-05-09 17:28:18,566 - 127.0.0.1 - - [09/May/2025 17:28:18] "GET /dashboard HTTP/1.1" 200 -
+2025-05-09 17:29:45,423 - IP 127.0.0.1 requested /backup.zip
+2025-05-09 17:29:45,423 - 127.0.0.1 - - [09/May/2025 17:29:45] "[31m[1mGET /backup.zip HTTP/1.1[0m" 403 -
+2025-05-09 17:29:51,699 - 127.0.0.1 - - [09/May/2025 17:29:51] "[33mGET /wp-json/ HTTP/1.1[0m" 404 -
+2025-05-09 17:29:55,242 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-09 17:29:55,243 - 127.0.0.1 - - [09/May/2025 17:29:55] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-09 17:37:05,127 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-09 17:37:05,220 - Auth rejected (none).
+2025-05-09 17:37:05,544 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,544 - Auth rejected (password).
+2025-05-09 17:37:05,671 - Auth rejected (password).
+2025-05-09 17:37:05,680 - Auth rejected (none).
+2025-05-09 17:37:05,681 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-09 17:37:05,681 - 127.0.0.1, john , admin
+2025-05-09 17:37:05,681 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,681 - Auth rejected (password).
+2025-05-09 17:37:05,681 - Disconnect (code 11): Bye Bye
+2025-05-09 17:37:05,682 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-09 17:37:05,682 - 127.0.0.1, john , 12345
+2025-05-09 17:37:05,682 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,682 - Auth rejected (password).
+2025-05-09 17:37:05,682 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-09 17:37:05,684 - Auth rejected (none).
+2025-05-09 17:37:05,684 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-09 17:37:05,684 - 127.0.0.1, test , 123456
+2025-05-09 17:37:05,684 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,684 - Auth rejected (password).
+2025-05-09 17:37:05,692 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-09 17:37:05,692 - Disconnect (code 11): Bye Bye
+2025-05-09 17:37:05,692 - 127.0.0.1, test , root
+2025-05-09 17:37:05,693 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-09 17:37:05,693 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,693 - Auth rejected (password).
+2025-05-09 17:37:05,696 - Auth rejected (none).
+2025-05-09 17:37:05,696 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-09 17:37:05,696 - 127.0.0.1, test , admin
+2025-05-09 17:37:05,696 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,696 - Auth rejected (password).
+2025-05-09 17:37:05,701 - Auth rejected (none).
+2025-05-09 17:37:05,701 - Auth rejected (none).
+2025-05-09 17:37:05,701 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-09 17:37:05,701 - 127.0.0.1, john , admin123
+2025-05-09 17:37:05,702 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,702 - Auth rejected (password).
+2025-05-09 17:37:05,702 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-09 17:37:05,702 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-09 17:37:05,702 - 127.0.0.1, john , root
+2025-05-09 17:37:05,702 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-09 17:37:05,703 - 127.0.0.1, test , admin123
+2025-05-09 17:37:05,703 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,703 - 127.0.0.1, test , toor
+2025-05-09 17:37:05,703 - Auth rejected (password).
+2025-05-09 17:37:05,703 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,703 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,704 - Auth rejected (password).
+2025-05-09 17:37:05,704 - Auth rejected (password).
+2025-05-09 17:37:05,712 - Disconnect (code 11): Bye Bye
+2025-05-09 17:37:05,713 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-09 17:37:05,770 - Auth rejected (none).
+2025-05-09 17:37:05,771 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-09 17:37:05,772 - 127.0.0.1, test , 12345
+2025-05-09 17:37:05,772 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-09 17:37:05,772 - Auth rejected (password).
+2025-05-09 17:38:46,046 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-09 17:38:46,051 - Auth rejected (none).
+2025-05-09 17:38:50,926 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-09 17:38:50,927 - 127.0.0.1, username, 12345
+2025-05-09 17:38:50,927 - Auth granted (password).
+2025-05-09 17:39:40,134 - Command b'\x7fls'executed by 127.0.0.1
+2025-05-09 17:39:41,297 - Command b'ls'executed by 127.0.0.1
+2025-05-09 17:39:46,751 - Command b'cat secrets'executed by 127.0.0.1
+2025-05-09 17:40:20,553 - Command b'cat passwd'executed by 127.0.0.1
+2025-05-09 17:41:23,778 - concurrency model: async
+2025-05-09 17:41:23,778 - masquerade (NAT) address: None
+2025-05-09 17:41:23,778 - passive ports: None
+2025-05-09 17:41:23,778 - >>> starting FTP server on 0.0.0.0:2121, pid=57142 <<<
+2025-05-09 17:42:21,299 - 127.0.0.1:52278-[] FTP session opened (connect)
+2025-05-09 17:42:45,840 - 127.0.0.1:52278-[] USER 'ls' failed login.
+2025-05-09 17:42:57,654 - 127.0.0.1:52278-[] FTP session closed (disconnect).
+2025-05-09 17:43:31,800 - 127.0.0.1:52942-[] FTP session opened (connect)
+2025-05-09 17:43:35,409 - 127.0.0.1:52942-[admin] USER 'admin' logged in.
+2025-05-09 17:46:33,575 - 127.0.0.1:52942-[admin] CWD /tmp/ftp_honeypot/confidential 250
+2025-05-09 17:47:00,590 - 127.0.0.1:52942-[admin] RETR /tmp/ftp_honeypot/confidential/secret_plans.txt completed=1 bytes=28 seconds=0.001
+2025-05-09 17:47:55,126 - 127.0.0.1:52942-[admin] FTP session closed (disconnect).
+2025-05-09 17:49:53,557 - received interrupt signal
+2025-05-09 17:49:53,558 - >>> shutting down FTP server, 1 socket(s), pid=57142 <<<
+2025-05-09 17:50:06,673 - Connection from 127.0.0.1
+2025-05-09 17:50:14,947 - [FAILED LOGIN] IP: 127.0.0.1, Username: username, Password: 12345 (Attempt #1)
+2025-05-09 17:50:48,299 - Connection from 127.0.0.1
+2025-05-09 17:50:52,091 - [LOGIN SUCCESS] IP: 127.0.0.1, Username: admin, Password: password123
+2025-05-09 17:51:11,761 - 127.0.0.1 executed: netstat
+2025-05-09 17:51:25,762 - 127.0.0.1 executed: ps
+2025-05-09 17:51:31,588 - 127.0.0.1 executed: pwd
+2025-05-09 17:51:35,017 - 127.0.0.1 executed: ls
+2025-05-09 17:51:39,169 - 127.0.0.1 executed: cat flag.txt
+2025-05-09 17:51:39,169 - [ALERT] Suspicious behavior from 127.0.0.1
+2025-05-18 19:02:14,300 - Connection from 89.160.20.128
+2025-05-18 19:02:15,342 - [LOGIN SUCCESS] IP: 89.160.20.128, Username: admin, Password: 1234
+2025-05-18 19:02:17,689 - 89.160.20.128 executed: ls
+2025-05-18 19:02:18,732 - 89.160.20.128 executed: cat /etc/passwd
+2025-05-18 19:02:18,733 - [ALERT] Suspicious behavior from 89.160.20.128
+2025-05-18 19:02:21,144 - 89.160.20.128 executed: cd /home/iot
+2025-05-18 19:02:23,400 - 89.160.20.128 executed: cat flag.txt
+2025-05-18 19:04:55,600 - Connection from 102.165.35.44
+2025-05-18 19:04:56,112 - [FAILED LOGIN] IP: 102.165.35.44, Username: root, Password: toor (Attempt #1)
+2025-05-18 19:04:58,189 - [FAILED LOGIN] IP: 102.165.35.44, Username: root, Password: admin (Attempt #2)
+2025-05-18 19:04:59,243 - [FAILED LOGIN] IP: 102.165.35.44, Username: admin, Password: root (Attempt #3)
+2025-05-18 19:05:00,298 - [BRUTE FORCE DETECTED] Blocking IP: 102.165.35.44
+2025-05-18 19:05:01,331 - Disconnection from 102.165.35.44
+2025-05-18 19:06:07,888 - Connection from 193.150.121.93
+2025-05-18 19:06:09,002 - [LOGIN SUCCESS] IP: 193.150.121.93, Username: guest, Password: guest
+2025-05-18 19:06:11,441 - 193.150.121.93 executed: mkdir /tmp
+2025-05-18 19:06:13,678 - 193.150.121.93 executed: touch /tmp/evil.sh
+2025-05-18 19:06:14,002 - 193.150.121.93 executed: echo 'malicious payload' > /tmp/evil.sh
+2025-05-18 19:06:16,217 - [ALERT] Suspicious behavior from 193.150.121.93
+2025-05-18 19:08:45,522 - Connection from 8.8.8.8
+2025-05-18 19:08:47,101 - [LOGIN SUCCESS] IP: 8.8.8.8, Username: scanner, Password: scanner123
+2025-05-18 19:08:49,722 - 8.8.8.8 executed: whoami
+2025-05-18 19:08:50,891 - 8.8.8.8 executed: netstat
+2025-05-18 19:08:52,340 - 8.8.8.8 executed: ps aux
+2025-05-18 19:08:54,992 - Disconnection from 8.8.8.8
+2025-05-20 12:21:51,361 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-20 12:21:51,368 - Auth rejected (none).
+2025-05-20 12:21:53,956 - Client 127.0.0.1 attempted connection with username: username, password: password
+2025-05-20 12:21:53,957 - 127.0.0.1, username, password
+2025-05-20 12:21:53,958 - Auth granted (password).
+2025-05-20 12:21:54,815 - Command b'ls'executed by 127.0.0.1
+2025-05-20 12:22:00,346 - Command b'cat passwd'executed by 127.0.0.1
+2025-05-20 12:22:27,085 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-20 12:22:27,091 - Auth rejected (none).
+2025-05-20 12:22:29,147 - Client 127.0.0.1 attempted connection with username: username, password: password
+2025-05-20 12:22:29,147 - 127.0.0.1, username, password
+2025-05-20 12:22:29,147 - Auth granted (password).
+2025-05-20 12:22:31,884 - Command b'cat passwd'executed by 127.0.0.1
+2025-05-20 12:24:40,568 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-20 12:24:40,572 - Auth rejected (none).
+2025-05-20 12:24:42,725 - Client 127.0.0.1 attempted connection with username: username, password: password
+2025-05-20 12:24:42,725 - 127.0.0.1, username, password
+2025-05-20 12:24:42,726 - Auth granted (password).
+2025-05-20 12:24:45,460 - Command b'ls'executed by 127.0.0.1
+2025-05-20 12:24:49,491 - Command b'cat notes.txt'executed by 127.0.0.1
+2025-05-20 12:25:53,693 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-20 12:25:53,700 - Auth rejected (none).
+2025-05-20 12:25:55,443 - Client 127.0.0.1 attempted connection with username: username, password: password
+2025-05-20 12:25:55,444 - 127.0.0.1, username, password
+2025-05-20 12:25:55,444 - Auth granted (password).
+2025-05-20 12:25:55,890 - Command b'ls'executed by 127.0.0.1
+2025-05-20 12:25:59,106 - Command b'cat notes.txt'executed by 127.0.0.1
+2025-05-20 12:27:24,452 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://172.26.242.168:5050
+2025-05-20 12:27:24,452 - [33mPress CTRL+C to quit[0m
+2025-05-20 12:27:33,763 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 12:27:33,764 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 12:28:00,598 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:28:00,600 - 127.0.0.1 - - [20/May/2025 12:28:00] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 12:28:42,571 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:28:42,571 - 127.0.0.1 - - [20/May/2025 12:28:42] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 12:31:54,679 - IP: 127.0.0.1, Query: login.example.com., Type: A
+2025-05-20 12:34:20,320 - 127.0.0.1 - - [20/May/2025 12:34:20] "GET / HTTP/1.1" 200 -
+2025-05-20 12:34:20,536 - 127.0.0.1 - - [20/May/2025 12:34:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-20 12:34:37,684 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 12:34:37,685 - 127.0.0.1 - - [20/May/2025 12:34:37] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 12:35:22,195 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 12:35:22,196 - 127.0.0.1 - - [20/May/2025 12:35:22] "GET /wp-config.php HTTP/1.1" 200 -
+2025-05-20 12:35:27,032 - 127.0.0.1 - - [20/May/2025 12:35:27] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 12:42:15,346 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 12:42:15,349 - 127.0.0.1 - - [20/May/2025 12:42:15] "GET /wp-config.php HTTP/1.1" 200 -
+2025-05-20 12:42:17,856 - 127.0.0.1 - - [20/May/2025 12:42:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 13:14:39,919 - concurrency model: async
+2025-05-20 13:14:39,919 - masquerade (NAT) address: None
+2025-05-20 13:14:39,919 - passive ports: None
+2025-05-20 13:14:39,919 - >>> starting FTP server on 0.0.0.0:2121, pid=33029 <<<
+2025-05-20 13:15:18,670 - 127.0.0.1:47346-[] FTP session opened (connect)
+2025-05-20 13:15:31,960 - 127.0.0.1:47346-[] USER 'admin' failed login.
+2025-05-20 13:15:34,454 - 127.0.0.1:47346-[] FTP session closed (disconnect).
+2025-05-20 13:15:45,409 - 127.0.0.1:58650-[] FTP session opened (connect)
+2025-05-20 13:15:48,204 - 127.0.0.1:58650-[admin] USER 'admin' logged in.
+2025-05-20 13:16:30,592 - 127.0.0.1:58650-[admin] FTP session closed (disconnect).
+2025-05-20 13:16:34,662 - 127.0.0.1:60000-[] FTP session opened (connect)
+2025-05-20 13:16:37,093 - 127.0.0.1:60000-[admin] USER 'admin' logged in.
+2025-05-20 13:16:39,744 - 127.0.0.1:60000-[admin] STOR /tmp/ftp_honeypot/shell.sh completed=1 bytes=57 seconds=0.003
+2025-05-20 13:18:13,116 - 127.0.0.1:60000-[admin] SITE CHMOD /tmp/ftp_honeypot/shell.sh 550 'Not enough privileges.'
+2025-05-20 13:18:27,134 - 127.0.0.1:60000-[admin] SITE CHMOD /tmp/ftp_honeypot/shell.sh 550 'Not enough privileges.'
+2025-05-20 13:18:31,570 - 127.0.0.1:60000-[admin] SITE CHMOD /tmp/ftp_honeypot/shell.sh 550 'Not enough privileges.'
+2025-05-20 13:18:42,227 - 127.0.0.1:60000-[admin] SITE CHMOD /tmp/ftp_honeypot/shell.sh 550 'Not enough privileges.'
+2025-05-20 13:19:28,860 - 127.0.0.1:60000-[admin] FTP session closed (disconnect).
+2025-05-20 13:25:13,454 - concurrency model: async
+2025-05-20 13:25:13,454 - masquerade (NAT) address: None
+2025-05-20 13:25:13,454 - passive ports: None
+2025-05-20 13:25:13,454 - >>> starting FTP server on 0.0.0.0:2121, pid=35054 <<<
+2025-05-20 13:25:21,043 - 127.0.0.1:48296-[] FTP session opened (connect)
+2025-05-20 13:25:25,178 - 127.0.0.1:48296-[admin] USER 'admin' logged in.
+2025-05-20 13:25:39,500 - 127.0.0.1:48296-[admin] CWD /tmp/ftp_honeypot/confidential 250
+2025-05-20 13:25:49,982 - 127.0.0.1:48296-[admin] RETR /tmp/ftp_honeypot/confidential/secret_plans.txt completed=1 bytes=139 seconds=0.0
+2025-05-20 13:25:51,617 - 127.0.0.1:48296-[admin] FTP session closed (disconnect).
+2025-05-20 17:54:33,642 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 17:54:33,643 - [33mPress CTRL+C to quit[0m
+2025-05-20 17:55:07,979 - 127.0.0.1 - - [20/May/2025 17:55:07] "GET / HTTP/1.0" 200 -
+2025-05-20 17:55:07,997 - 127.0.0.1 - - [20/May/2025 17:55:07] "OPTIONS / HTTP/1.0" 200 -
+2025-05-20 17:55:08,008 - 127.0.0.1 - - [20/May/2025 17:55:08] code 400, message Bad request version ('RTSP/1.0')
+2025-05-20 17:55:08,008 - 127.0.0.1 - - [20/May/2025 17:55:08] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-05-20 17:55:13,011 - 127.0.0.1 - - [20/May/2025 17:55:13] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-05-20 17:55:13,011 - 127.0.0.1 - - [20/May/2025 17:55:13] "[31m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:55:17,029 - Exception (server): Error reading SSH protocol banner
+2025-05-20 17:55:17,036 - Traceback (most recent call last):
+2025-05-20 17:55:17,036 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2369, in _check_banner
+2025-05-20 17:55:17,037 -     buf = self.packetizer.readline(timeout)
+2025-05-20 17:55:17,037 -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-20 17:55:17,037 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 395, in readline
+2025-05-20 17:55:17,037 -     buf += self._read_timeout(timeout)
+2025-05-20 17:55:17,037 -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-20 17:55:17,037 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 673, in _read_timeout
+2025-05-20 17:55:17,037 -     raise socket.timeout()
+2025-05-20 17:55:17,037 - TimeoutError
+2025-05-20 17:55:17,037 - 
+2025-05-20 17:55:17,037 - During handling of the above exception, another exception occurred:
+2025-05-20 17:55:17,037 - 
+2025-05-20 17:55:17,037 - Traceback (most recent call last):
+2025-05-20 17:55:17,037 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2185, in run
+2025-05-20 17:55:17,037 -     self._check_banner()
+2025-05-20 17:55:17,037 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2373, in _check_banner
+2025-05-20 17:55:17,037 -     raise SSHException(
+2025-05-20 17:55:17,037 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-05-20 17:55:17,037 - 
+2025-05-20 17:55:18,017 - 127.0.0.1 - - [20/May/2025 17:55:18] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-20 17:55:18,017 - 127.0.0.1 - - [20/May/2025 17:55:18] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-05-20 17:55:23,022 - 127.0.0.1 - - [20/May/2025 17:55:23] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-20 17:55:23,023 - 127.0.0.1 - - [20/May/2025 17:55:23] "[31m[1m\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:55:23,025 - 127.0.0.1 - - [20/May/2025 17:55:23] code 400, message Bad request syntax ('HELP')
+2025-05-20 17:55:23,025 - 127.0.0.1 - - [20/May/2025 17:55:23] "[31m[1mHELP[0m" 400 -
+2025-05-20 17:55:23,029 - 127.0.0.1 - - [20/May/2025 17:55:23] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-05-20 17:55:23,030 - 127.0.0.1 - - [20/May/2025 17:55:23] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-05-20 17:55:23,033 - 127.0.0.1 - - [20/May/2025 17:55:23] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+2025-05-20 17:55:23,033 - 127.0.0.1 - - [20/May/2025 17:55:23] "[31m[1m\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie: mstshash=nmap[0m" 400 -
+2025-05-20 17:55:23,035 - 127.0.0.1 - - [20/May/2025 17:55:23] code 400, message Bad request version ('\x00/\x00')
+2025-05-20 17:55:23,035 - 127.0.0.1 - - [20/May/2025 17:55:23] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-05-20 17:55:23,036 - 127.0.0.1 - - [20/May/2025 17:55:23] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+2025-05-20 17:55:23,037 - 127.0.0.1 - - [20/May/2025 17:55:23] "[31m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" 400 -
+2025-05-20 17:55:28,044 - 127.0.0.1 - - [20/May/2025 17:55:28] code 400, message Bad request version ('0.12\x00')
+2025-05-20 17:55:28,045 - 127.0.0.1 - - [20/May/2025 17:55:28] "[31m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-05-20 17:55:33,050 - 127.0.0.1 - - [20/May/2025 17:55:33] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-05-20 17:55:33,051 - 127.0.0.1 - - [20/May/2025 17:55:33] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:55:33,058 - 127.0.0.1 - - [20/May/2025 17:55:33] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-05-20 17:55:33,070 - 127.0.0.1 - - [20/May/2025 17:55:33] code 400, message Bad request syntax ('\x01default')
+2025-05-20 17:55:33,070 - 127.0.0.1 - - [20/May/2025 17:55:33] "[31m[1m\x01default[0m" 400 -
+2025-05-20 17:55:33,071 - 127.0.0.1 - - [20/May/2025 17:55:33] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+2025-05-20 17:55:33,071 - 127.0.0.1 - - [20/May/2025 17:55:33] "[31m[1m0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00[0m" 400 -
+2025-05-20 17:55:38,077 - 127.0.0.1 - - [20/May/2025 17:55:38] code 400, message Bad HTTP/0.9 request type ('0')
+2025-05-20 17:55:38,078 - 127.0.0.1 - - [20/May/2025 17:55:38] "[31m[1m0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00[0m" 400 -
+2025-05-20 17:55:38,080 - 127.0.0.1 - - [20/May/2025 17:55:38] code 400, message Bad request version ('SIP/2.0')
+2025-05-20 17:55:38,080 - 127.0.0.1 - - [20/May/2025 17:55:38] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-05-20 17:55:43,089 - 127.0.0.1 - - [20/May/2025 17:55:43] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+2025-05-20 17:55:43,090 - 127.0.0.1 - - [20/May/2025 17:55:43] "[31m[1mTNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00[0m" 400 -
+2025-05-20 17:55:48,095 - 127.0.0.1 - - [20/May/2025 17:55:48] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+2025-05-20 17:55:48,097 - 127.0.0.1 - - [20/May/2025 17:55:48] "[31m[1m\x03\x00\x00\x0b\x06à\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:55:53,101 - 127.0.0.1 - - [20/May/2025 17:55:53] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+2025-05-20 17:55:53,105 - 127.0.0.1 - - [20/May/2025 17:55:53] "[31m[1mDmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13[0m" 400 -
+2025-05-20 17:55:58,107 - 127.0.0.1 - - [20/May/2025 17:55:58] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+2025-05-20 17:55:58,108 - 127.0.0.1 - - [20/May/2025 17:55:58] "[31m[1m:\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:56:03,113 - 127.0.0.1 - - [20/May/2025 17:56:03] code 400, message Bad request syntax ('JRMI\x00\x02K')
+2025-05-20 17:56:03,114 - 127.0.0.1 - - [20/May/2025 17:56:03] "[31m[1mJRMI\x00\x02K[0m" 400 -
+2025-05-20 17:56:08,119 - 127.0.0.1 - - [20/May/2025 17:56:08] code 400, message Bad request version ('\x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+2025-05-20 17:56:08,119 - 127.0.0.1 - - [20/May/2025 17:56:08] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_[0m" 400 -
+2025-05-20 17:56:13,125 - 127.0.0.1 - - [20/May/2025 17:56:13] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+2025-05-20 17:56:13,126 - 127.0.0.1 - - [20/May/2025 17:56:13] "[31m[1m\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004æ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))[0m" 400 -
+2025-05-20 17:56:18,131 - 127.0.0.1 - - [20/May/2025 17:56:18] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+2025-05-20 17:56:18,132 - 127.0.0.1 - - [20/May/2025 17:56:18] "[31m[1m\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00[0m" 400 -
+2025-05-20 17:56:23,137 - 127.0.0.1 - - [20/May/2025 17:56:23] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+2025-05-20 17:56:23,140 - 127.0.0.1 - - [20/May/2025 17:56:23] "[31m[1m\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00[0m" 400 -
+2025-05-20 17:56:28,143 - 127.0.0.1 - - [20/May/2025 17:56:28] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2025-05-20 17:56:28,144 - 127.0.0.1 - - [20/May/2025 17:56:28] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:56:29,168 - 127.0.0.1 - - [20/May/2025 17:56:29] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(?·\x0e\x15\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+2025-05-20 17:56:29,168 - 127.0.0.1 - - [20/May/2025 17:56:29] "[31m[1m\x80\x00\x00(?·\x0e\x15\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 17:57:03,016 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 17:57:03,018 - 127.0.0.1 - - [20/May/2025 17:57:03] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 17:57:15,083 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 17:57:15,083 - 127.0.0.1 - - [20/May/2025 17:57:15] "GET /wp-config.php HTTP/1.1" 200 -
+2025-05-20 18:20:01,178 - concurrency model: async
+2025-05-20 18:20:01,178 - masquerade (NAT) address: None
+2025-05-20 18:20:01,178 - passive ports: None
+2025-05-20 18:20:01,178 - >>> starting FTP server on 0.0.0.0:2121, pid=64809 <<<
+2025-05-20 21:36:53,787 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:53,837 - Auth rejected (none).
+2025-05-20 21:36:53,837 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,057 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,060 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,061 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,064 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,112 - Auth rejected (none).
+2025-05-20 21:36:54,112 - Auth rejected (none).
+2025-05-20 21:36:54,113 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 21:36:54,113 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 21:36:54,113 - 127.0.0.1, admin, root
+2025-05-20 21:36:54,114 - Auth granted (password).
+2025-05-20 21:36:54,113 - 127.0.0.1, admin, 123456
+2025-05-20 21:36:54,114 - Auth granted (password).
+2025-05-20 21:36:54,122 - Auth rejected (none).
+2025-05-20 21:36:54,123 - Auth rejected (none).
+2025-05-20 21:36:54,123 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 21:36:54,123 - 127.0.0.1, admin, admin
+2025-05-20 21:36:54,123 - Auth granted (password).
+2025-05-20 21:36:54,124 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 21:36:54,124 - 127.0.0.1, admin, admin123
+2025-05-20 21:36:54,124 - Auth granted (password).
+2025-05-20 21:36:54,125 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,126 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,127 - Auth rejected (none).
+2025-05-20 21:36:54,127 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 21:36:54,127 - 127.0.0.1, root , 123456
+2025-05-20 21:36:54,127 - Auth granted (password).
+2025-05-20 21:36:54,135 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,136 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,136 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,139 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,143 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,151 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,154 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,154 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,192 - Auth rejected (none).
+2025-05-20 21:36:54,193 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 21:36:54,193 - 127.0.0.1, root , admin
+2025-05-20 21:36:54,193 - Auth granted (password).
+2025-05-20 21:36:54,202 - Auth rejected (none).
+2025-05-20 21:36:54,203 - Auth rejected (none).
+2025-05-20 21:36:54,203 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-20 21:36:54,203 - Auth rejected (none).
+2025-05-20 21:36:54,203 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,204 - 127.0.0.1, hamad, admin
+2025-05-20 21:36:54,204 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 21:36:54,204 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,205 - Auth granted (password).
+2025-05-20 21:36:54,204 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 21:36:54,205 - 127.0.0.1, hamad, 123456
+2025-05-20 21:36:54,207 - Auth granted (password).
+2025-05-20 21:36:54,206 - 127.0.0.1, root , root
+2025-05-20 21:36:54,207 - Auth granted (password).
+2025-05-20 21:36:54,207 - Auth rejected (none).
+2025-05-20 21:36:54,207 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-20 21:36:54,207 - 127.0.0.1, hamad, root
+2025-05-20 21:36:54,207 - Auth granted (password).
+2025-05-20 21:36:54,224 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,226 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,229 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,229 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,232 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,235 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,236 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,240 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,246 - Auth rejected (none).
+2025-05-20 21:36:54,247 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 21:36:54,247 - 127.0.0.1, username, admin123
+2025-05-20 21:36:54,247 - Auth granted (password).
+2025-05-20 21:36:54,258 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,258 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,260 - Auth rejected (none).
+2025-05-20 21:36:54,260 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 21:36:54,260 - 127.0.0.1, john , 123456
+2025-05-20 21:36:54,260 - Auth granted (password).
+2025-05-20 21:36:54,278 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,279 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,292 - Auth rejected (none).
+2025-05-20 21:36:54,293 - Auth rejected (none).
+2025-05-20 21:36:54,293 - Auth rejected (none).
+2025-05-20 21:36:54,293 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 21:36:54,293 - 127.0.0.1, username, 123456
+2025-05-20 21:36:54,293 - Auth granted (password).
+2025-05-20 21:36:54,293 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 21:36:54,294 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 21:36:54,294 - 127.0.0.1, username, root
+2025-05-20 21:36:54,294 - Auth granted (password).
+2025-05-20 21:36:54,294 - 127.0.0.1, username, admin
+2025-05-20 21:36:54,294 - Auth granted (password).
+2025-05-20 21:36:54,304 - Disconnect (code 11): Bye Bye
+2025-05-20 21:36:54,305 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:36:54,307 - Auth rejected (none).
+2025-05-20 21:36:54,307 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 21:36:54,307 - 127.0.0.1, test , admin
+2025-05-20 21:36:54,307 - Auth granted (password).
+2025-05-20 21:36:54,323 - Auth rejected (none).
+2025-05-20 21:36:54,323 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 21:36:54,324 - 127.0.0.1, test , 123456
+2025-05-20 21:36:54,324 - Auth granted (password).
+2025-05-20 21:37:47,054 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,104 - Auth rejected (none).
+2025-05-20 21:37:47,105 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,325 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,328 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,330 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,333 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,383 - Auth rejected (none).
+2025-05-20 21:37:47,383 - Auth rejected (none).
+2025-05-20 21:37:47,384 - Auth rejected (none).
+2025-05-20 21:37:47,384 - Auth rejected (none).
+2025-05-20 21:37:47,384 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 21:37:47,385 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 21:37:47,385 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 21:37:47,385 - 127.0.0.1, admin, admin
+2025-05-20 21:37:47,385 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 21:37:47,385 - 127.0.0.1, admin, root
+2025-05-20 21:37:47,386 - Auth rejected (password).
+2025-05-20 21:37:47,386 - 127.0.0.1, admin, 123456
+2025-05-20 21:37:47,386 - 127.0.0.1, admin, admin123
+2025-05-20 21:37:47,386 - Auth rejected (password).
+2025-05-20 21:37:47,387 - Auth rejected (password).
+2025-05-20 21:37:47,387 - Auth rejected (password).
+2025-05-20 21:37:47,387 - Client 127.0.0.1 attempted connection with username: admin, password: toor
+2025-05-20 21:37:47,388 - 127.0.0.1, admin, toor
+2025-05-20 21:37:47,388 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,388 - Auth rejected (password).
+2025-05-20 21:37:47,398 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,398 - Client 127.0.0.1 attempted connection with username: admin, password: 12345
+2025-05-20 21:37:47,399 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,400 - 127.0.0.1, admin, 12345
+2025-05-20 21:37:47,401 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,401 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,402 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,404 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,404 - Auth rejected (password).
+2025-05-20 21:37:47,407 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,408 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,411 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,415 - Auth rejected (none).
+2025-05-20 21:37:47,415 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 21:37:47,415 - 127.0.0.1, root , admin123
+2025-05-20 21:37:47,415 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,415 - Auth rejected (password).
+2025-05-20 21:37:47,417 - Client 127.0.0.1 attempted connection with username: root , password: toor
+2025-05-20 21:37:47,418 - 127.0.0.1, root , toor
+2025-05-20 21:37:47,418 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,418 - Auth rejected (password).
+2025-05-20 21:37:47,428 - Client 127.0.0.1 attempted connection with username: root , password: 12345
+2025-05-20 21:37:47,428 - 127.0.0.1, root , 12345
+2025-05-20 21:37:47,428 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,428 - Auth rejected (password).
+2025-05-20 21:37:47,438 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,439 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,440 - Auth rejected (none).
+2025-05-20 21:37:47,441 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 21:37:47,441 - 127.0.0.1, hamad, 123456
+2025-05-20 21:37:47,441 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,441 - Auth rejected (password).
+2025-05-20 21:37:47,448 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-20 21:37:47,449 - 127.0.0.1, hamad, admin
+2025-05-20 21:37:47,449 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,449 - Auth rejected (password).
+2025-05-20 21:37:47,458 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-20 21:37:47,458 - 127.0.0.1, hamad, root
+2025-05-20 21:37:47,459 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,459 - Auth rejected (password).
+2025-05-20 21:37:47,462 - Auth rejected (none).
+2025-05-20 21:37:47,462 - Auth rejected (none).
+2025-05-20 21:37:47,463 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 21:37:47,463 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 21:37:47,463 - 127.0.0.1, root , root
+2025-05-20 21:37:47,463 - 127.0.0.1, root , 123456
+2025-05-20 21:37:47,463 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,463 - Auth rejected (password).
+2025-05-20 21:37:47,463 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,463 - Auth rejected (password).
+2025-05-20 21:37:47,468 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,469 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,469 - Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+2025-05-20 21:37:47,470 - 127.0.0.1, hamad, admin123
+2025-05-20 21:37:47,470 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,470 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,471 - Auth rejected (password).
+2025-05-20 21:37:47,471 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,472 - Auth rejected (none).
+2025-05-20 21:37:47,473 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 21:37:47,474 - 127.0.0.1, root , admin
+2025-05-20 21:37:47,474 - Auth rejected (none).
+2025-05-20 21:37:47,474 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,475 - Auth rejected (password).
+2025-05-20 21:37:47,475 - Client 127.0.0.1 attempted connection with username: hamad, password: toor
+2025-05-20 21:37:47,475 - 127.0.0.1, hamad, toor
+2025-05-20 21:37:47,475 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,475 - Auth rejected (password).
+2025-05-20 21:37:47,479 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,480 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,480 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,481 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,482 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,484 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,533 - Auth rejected (none).
+2025-05-20 21:37:47,534 - Auth rejected (none).
+2025-05-20 21:37:47,534 - Auth rejected (none).
+2025-05-20 21:37:47,535 - Auth rejected (none).
+2025-05-20 21:37:47,535 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 21:37:47,536 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 21:37:47,536 - 127.0.0.1, username, root
+2025-05-20 21:37:47,536 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 21:37:47,536 - Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+2025-05-20 21:37:47,536 - 127.0.0.1, username, 123456
+2025-05-20 21:37:47,537 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,537 - 127.0.0.1, username, admin
+2025-05-20 21:37:47,537 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,537 - 127.0.0.1, hamad, 12345
+2025-05-20 21:37:47,537 - Auth rejected (password).
+2025-05-20 21:37:47,537 - Auth rejected (password).
+2025-05-20 21:37:47,537 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,538 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,538 - Auth rejected (password).
+2025-05-20 21:37:47,538 - Auth rejected (password).
+2025-05-20 21:37:47,538 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 21:37:47,539 - 127.0.0.1, username, admin123
+2025-05-20 21:37:47,539 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,539 - Auth rejected (password).
+2025-05-20 21:37:47,549 - Client 127.0.0.1 attempted connection with username: username, password: toor
+2025-05-20 21:37:47,553 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,551 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 21:37:47,553 - 127.0.0.1, username, toor
+2025-05-20 21:37:47,554 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,554 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,554 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,554 - 127.0.0.1, username, 12345
+2025-05-20 21:37:47,554 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,557 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,557 - Auth rejected (password).
+2025-05-20 21:37:47,559 - Auth rejected (password).
+2025-05-20 21:37:47,559 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,560 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,562 - Auth rejected (none).
+2025-05-20 21:37:47,562 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-20 21:37:47,562 - 127.0.0.1, john , root
+2025-05-20 21:37:47,562 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,562 - Auth rejected (password).
+2025-05-20 21:37:47,570 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,570 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-20 21:37:47,571 - 127.0.0.1, john , admin123
+2025-05-20 21:37:47,571 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,571 - Auth rejected (password).
+2025-05-20 21:37:47,571 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,573 - Auth rejected (none).
+2025-05-20 21:37:47,573 - Client 127.0.0.1 attempted connection with username: john , password: toor
+2025-05-20 21:37:47,573 - 127.0.0.1, john , toor
+2025-05-20 21:37:47,573 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,573 - Auth rejected (password).
+2025-05-20 21:37:47,580 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,580 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-20 21:37:47,581 - 127.0.0.1, john , 12345
+2025-05-20 21:37:47,581 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,581 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,581 - Auth rejected (password).
+2025-05-20 21:37:47,590 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,591 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,602 - Auth rejected (none).
+2025-05-20 21:37:47,602 - Auth rejected (none).
+2025-05-20 21:37:47,603 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 21:37:47,603 - 127.0.0.1, john , 123456
+2025-05-20 21:37:47,603 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-20 21:37:47,603 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,603 - Auth rejected (password).
+2025-05-20 21:37:47,603 - 127.0.0.1, john , admin
+2025-05-20 21:37:47,603 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,603 - Auth rejected (password).
+2025-05-20 21:37:47,604 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,604 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,614 - Disconnect (code 11): Bye Bye
+2025-05-20 21:37:47,615 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:37:47,616 - Auth rejected (none).
+2025-05-20 21:37:47,616 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-20 21:37:47,616 - 127.0.0.1, test , admin123
+2025-05-20 21:37:47,616 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,616 - Auth rejected (password).
+2025-05-20 21:37:47,624 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-20 21:37:47,624 - 127.0.0.1, test , toor
+2025-05-20 21:37:47,624 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,624 - Auth rejected (password).
+2025-05-20 21:37:47,632 - Auth rejected (none).
+2025-05-20 21:37:47,633 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 21:37:47,633 - 127.0.0.1, test , 123456
+2025-05-20 21:37:47,633 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,633 - Auth rejected (password).
+2025-05-20 21:37:47,634 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-20 21:37:47,634 - 127.0.0.1, test , 12345
+2025-05-20 21:37:47,634 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,634 - Auth rejected (password).
+2025-05-20 21:37:47,642 - Auth rejected (none).
+2025-05-20 21:37:47,643 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 21:37:47,643 - 127.0.0.1, test , admin
+2025-05-20 21:37:47,643 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,643 - Auth rejected (password).
+2025-05-20 21:37:47,662 - Auth rejected (none).
+2025-05-20 21:37:47,663 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-20 21:37:47,663 - 127.0.0.1, test , root
+2025-05-20 21:37:47,663 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:37:47,663 - Auth rejected (password).
+2025-05-20 21:38:13,736 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:13,795 - Auth rejected (none).
+2025-05-20 21:38:13,796 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,018 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,018 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,028 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,031 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,072 - Auth rejected (none).
+2025-05-20 21:38:14,072 - Auth rejected (none).
+2025-05-20 21:38:14,073 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 21:38:14,073 - 127.0.0.1, admin, 123456
+2025-05-20 21:38:14,073 - Auth rejected (password).
+2025-05-20 21:38:14,073 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 21:38:14,073 - 127.0.0.1, admin, root
+2025-05-20 21:38:14,073 - Auth rejected (password).
+2025-05-20 21:38:14,073 - Client 127.0.0.1 attempted connection with username: admin, password: toor
+2025-05-20 21:38:14,073 - 127.0.0.1, admin, toor
+2025-05-20 21:38:14,073 - Auth rejected (password).
+2025-05-20 21:38:14,082 - Auth rejected (none).
+2025-05-20 21:38:14,083 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 21:38:14,083 - 127.0.0.1, admin, admin123
+2025-05-20 21:38:14,083 - Auth rejected (password).
+2025-05-20 21:38:14,083 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,084 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,084 - Client 127.0.0.1 attempted connection with username: admin, password: 12345
+2025-05-20 21:38:14,085 - 127.0.0.1, admin, 12345
+2025-05-20 21:38:14,085 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,085 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,086 - Auth rejected (password).
+2025-05-20 21:38:14,086 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,089 - Auth rejected (none).
+2025-05-20 21:38:14,089 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 21:38:14,089 - 127.0.0.1, root , admin
+2025-05-20 21:38:14,090 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,090 - Auth rejected (password).
+2025-05-20 21:38:14,092 - Auth rejected (none).
+2025-05-20 21:38:14,092 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 21:38:14,092 - 127.0.0.1, admin, admin
+2025-05-20 21:38:14,092 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,093 - Auth rejected (password).
+2025-05-20 21:38:14,094 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,094 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,097 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,097 - Client 127.0.0.1 attempted connection with username: root , password: toor
+2025-05-20 21:38:14,098 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,098 - 127.0.0.1, root , toor
+2025-05-20 21:38:14,100 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,100 - Auth rejected (password).
+2025-05-20 21:38:14,102 - Auth rejected (none).
+2025-05-20 21:38:14,103 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 21:38:14,103 - 127.0.0.1, root , admin123
+2025-05-20 21:38:14,103 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,103 - Auth rejected (password).
+2025-05-20 21:38:14,104 - Client 127.0.0.1 attempted connection with username: root , password: 12345
+2025-05-20 21:38:14,104 - 127.0.0.1, root , 12345
+2025-05-20 21:38:14,104 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,104 - Auth rejected (password).
+2025-05-20 21:38:14,104 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,105 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,114 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,117 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,132 - Auth rejected (none).
+2025-05-20 21:38:14,133 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 21:38:14,133 - 127.0.0.1, root , 123456
+2025-05-20 21:38:14,133 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,133 - Auth rejected (password).
+2025-05-20 21:38:14,134 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,135 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,137 - Auth rejected (none).
+2025-05-20 21:38:14,137 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-20 21:38:14,137 - 127.0.0.1, hamad, root
+2025-05-20 21:38:14,137 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,137 - Auth rejected (password).
+2025-05-20 21:38:14,144 - Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+2025-05-20 21:38:14,144 - 127.0.0.1, hamad, admin123
+2025-05-20 21:38:14,144 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,144 - Auth rejected (password).
+2025-05-20 21:38:14,152 - Auth rejected (none).
+2025-05-20 21:38:14,152 - Auth rejected (none).
+2025-05-20 21:38:14,153 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 21:38:14,153 - 127.0.0.1, root , root
+2025-05-20 21:38:14,153 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 21:38:14,153 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,153 - Auth rejected (password).
+2025-05-20 21:38:14,153 - 127.0.0.1, hamad, 123456
+2025-05-20 21:38:14,153 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,153 - Auth rejected (password).
+2025-05-20 21:38:14,154 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,154 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,155 - Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+2025-05-20 21:38:14,155 - 127.0.0.1, hamad, 12345
+2025-05-20 21:38:14,155 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,156 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,156 - Auth rejected (password).
+2025-05-20 21:38:14,158 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,158 - Auth rejected (none).
+2025-05-20 21:38:14,158 - Client 127.0.0.1 attempted connection with username: hamad, password: toor
+2025-05-20 21:38:14,159 - 127.0.0.1, hamad, toor
+2025-05-20 21:38:14,160 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,160 - Auth rejected (password).
+2025-05-20 21:38:14,164 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,165 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,168 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,171 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,175 - Auth rejected (none).
+2025-05-20 21:38:14,177 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-20 21:38:14,179 - 127.0.0.1, hamad, admin
+2025-05-20 21:38:14,179 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,180 - Auth rejected (password).
+2025-05-20 21:38:14,180 - Auth rejected (none).
+2025-05-20 21:38:14,180 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,181 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 21:38:14,181 - 127.0.0.1, username, root
+2025-05-20 21:38:14,182 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,181 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,182 - Auth rejected (password).
+2025-05-20 21:38:14,184 - Auth rejected (none).
+2025-05-20 21:38:14,184 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 21:38:14,184 - 127.0.0.1, username, admin123
+2025-05-20 21:38:14,184 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,184 - Auth rejected (password).
+2025-05-20 21:38:14,191 - Client 127.0.0.1 attempted connection with username: username, password: toor
+2025-05-20 21:38:14,191 - 127.0.0.1, username, toor
+2025-05-20 21:38:14,191 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 21:38:14,191 - 127.0.0.1, username, 12345
+2025-05-20 21:38:14,191 - Auth granted (password).
+2025-05-20 21:38:14,191 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,191 - Auth rejected (password).
+2025-05-20 21:38:14,201 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,202 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,202 - Auth rejected (none).
+2025-05-20 21:38:14,203 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 21:38:14,204 - 127.0.0.1, username, 123456
+2025-05-20 21:38:14,204 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,204 - Auth rejected (password).
+2025-05-20 21:38:14,211 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,212 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,215 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,222 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,223 - Auth rejected (none).
+2025-05-20 21:38:14,226 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 21:38:14,226 - 127.0.0.1, username, admin
+2025-05-20 21:38:14,227 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,227 - Auth rejected (password).
+2025-05-20 21:38:14,228 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,228 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,230 - Auth rejected (none).
+2025-05-20 21:38:14,231 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-20 21:38:14,231 - 127.0.0.1, john , admin123
+2025-05-20 21:38:14,231 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,231 - Auth rejected (password).
+2025-05-20 21:38:14,238 - Client 127.0.0.1 attempted connection with username: john , password: toor
+2025-05-20 21:38:14,238 - 127.0.0.1, john , toor
+2025-05-20 21:38:14,238 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,238 - Auth rejected (password).
+2025-05-20 21:38:14,248 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-20 21:38:14,248 - 127.0.0.1, john , 12345
+2025-05-20 21:38:14,248 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,248 - Auth rejected (password).
+2025-05-20 21:38:14,252 - Auth rejected (none).
+2025-05-20 21:38:14,252 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 21:38:14,253 - 127.0.0.1, john , 123456
+2025-05-20 21:38:14,253 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,253 - Auth rejected (password).
+2025-05-20 21:38:14,258 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,258 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,260 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,263 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,269 - Auth rejected (none).
+2025-05-20 21:38:14,269 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 21:38:14,269 - 127.0.0.1, test , 123456
+2025-05-20 21:38:14,269 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,269 - Auth rejected (password).
+2025-05-20 21:38:14,270 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-20 21:38:14,270 - 127.0.0.1, test , root
+2025-05-20 21:38:14,270 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,270 - Auth rejected (password).
+2025-05-20 21:38:14,272 - Auth rejected (none).
+2025-05-20 21:38:14,272 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-20 21:38:14,273 - 127.0.0.1, john , admin
+2025-05-20 21:38:14,273 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,273 - Auth rejected (password).
+2025-05-20 21:38:14,280 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-20 21:38:14,281 - Disconnect (code 11): Bye Bye
+2025-05-20 21:38:14,281 - 127.0.0.1, test , admin123
+2025-05-20 21:38:14,281 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:38:14,281 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,282 - Auth rejected (password).
+2025-05-20 21:38:14,283 - Auth rejected (none).
+2025-05-20 21:38:14,283 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-20 21:38:14,283 - 127.0.0.1, john , root
+2025-05-20 21:38:14,284 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,284 - Auth rejected (password).
+2025-05-20 21:38:14,290 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-20 21:38:14,290 - 127.0.0.1, test , 12345
+2025-05-20 21:38:14,291 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,291 - Auth rejected (password).
+2025-05-20 21:38:14,323 - Auth rejected (none).
+2025-05-20 21:38:14,323 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 21:38:14,323 - 127.0.0.1, test , admin
+2025-05-20 21:38:14,323 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,323 - Auth rejected (password).
+2025-05-20 21:38:14,342 - Auth rejected (none).
+2025-05-20 21:38:14,343 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-20 21:38:14,343 - 127.0.0.1, test , toor
+2025-05-20 21:38:14,343 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:38:14,343 - Auth rejected (password).
+2025-05-20 21:52:32,514 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 21:52:32,515 - [33mPress CTRL+C to quit[0m
+2025-05-20 21:53:02,571 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 21:53:02,571 - [33mPress CTRL+C to quit[0m
+2025-05-20 21:53:05,015 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,072 - Auth rejected (none).
+2025-05-20 21:53:05,073 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,302 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,305 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,305 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,311 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,352 - Auth rejected (none).
+2025-05-20 21:53:05,353 - Auth rejected (none).
+2025-05-20 21:53:05,353 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 21:53:05,353 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 21:53:05,354 - 127.0.0.1, admin, 123456
+2025-05-20 21:53:05,355 - Auth granted (password).
+2025-05-20 21:53:05,354 - 127.0.0.1, admin, admin123
+2025-05-20 21:53:05,355 - Auth granted (password).
+2025-05-20 21:53:05,363 - Auth rejected (none).
+2025-05-20 21:53:05,365 - Auth rejected (none).
+2025-05-20 21:53:05,366 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,366 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 21:53:05,369 - 127.0.0.1, admin, root
+2025-05-20 21:53:05,373 - Auth granted (password).
+2025-05-20 21:53:05,374 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,379 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 21:53:05,381 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,382 - 127.0.0.1, admin, admin
+2025-05-20 21:53:05,392 - Auth granted (password).
+2025-05-20 21:53:05,393 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,396 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,398 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,408 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,409 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,410 - Auth rejected (none).
+2025-05-20 21:53:05,411 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 21:53:05,411 - 127.0.0.1, root , admin123
+2025-05-20 21:53:05,411 - Auth granted (password).
+2025-05-20 21:53:05,428 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,429 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,430 - Auth rejected (none).
+2025-05-20 21:53:05,431 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 21:53:05,431 - 127.0.0.1, hamad, 123456
+2025-05-20 21:53:05,431 - Auth granted (password).
+2025-05-20 21:53:05,449 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,451 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,454 - Auth rejected (none).
+2025-05-20 21:53:05,455 - Auth rejected (none).
+2025-05-20 21:53:05,456 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 21:53:05,456 - 127.0.0.1, root , 123456
+2025-05-20 21:53:05,457 - Auth granted (password).
+2025-05-20 21:53:05,458 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 21:53:05,458 - 127.0.0.1, root , root
+2025-05-20 21:53:05,459 - Auth granted (password).
+2025-05-20 21:53:05,463 - Auth rejected (none).
+2025-05-20 21:53:05,463 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 21:53:05,463 - 127.0.0.1, root , admin
+2025-05-20 21:53:05,463 - Auth granted (password).
+2025-05-20 21:53:05,469 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,470 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,471 - Auth rejected (none).
+2025-05-20 21:53:05,472 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 21:53:05,472 - 127.0.0.1, username, admin
+2025-05-20 21:53:05,472 - Auth granted (password).
+2025-05-20 21:53:05,479 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,480 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,481 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,481 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,484 - Auth rejected (none).
+2025-05-20 21:53:05,485 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 21:53:05,485 - 127.0.0.1, john , 123456
+2025-05-20 21:53:05,485 - Auth granted (password).
+2025-05-20 21:53:05,489 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,490 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,493 - Auth rejected (none).
+2025-05-20 21:53:05,493 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-20 21:53:05,493 - 127.0.0.1, john , root
+2025-05-20 21:53:05,493 - Auth granted (password).
+2025-05-20 21:53:05,500 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,502 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,504 - Auth rejected (none).
+2025-05-20 21:53:05,505 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 21:53:05,505 - 127.0.0.1, username, 123456
+2025-05-20 21:53:05,505 - Auth granted (password).
+2025-05-20 21:53:05,510 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:05,511 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:05,513 - Auth rejected (none).
+2025-05-20 21:53:05,513 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 21:53:05,513 - 127.0.0.1, test , admin
+2025-05-20 21:53:05,513 - Auth granted (password).
+2025-05-20 21:53:05,532 - Auth rejected (none).
+2025-05-20 21:53:05,533 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-20 21:53:05,533 - 127.0.0.1, john , admin
+2025-05-20 21:53:05,533 - Auth granted (password).
+2025-05-20 21:53:05,562 - Auth rejected (none).
+2025-05-20 21:53:05,563 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 21:53:05,563 - 127.0.0.1, test , 123456
+2025-05-20 21:53:05,563 - Auth granted (password).
+2025-05-20 21:53:24,949 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 21:53:24,949 - [33mPress CTRL+C to quit[0m
+2025-05-20 21:53:32,347 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,396 - Auth rejected (none).
+2025-05-20 21:53:32,396 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,613 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,628 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,637 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,644 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,682 - Auth rejected (none).
+2025-05-20 21:53:32,683 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 21:53:32,683 - 127.0.0.1, admin, root
+2025-05-20 21:53:32,683 - Auth rejected (password).
+2025-05-20 21:53:32,683 - Client 127.0.0.1 attempted connection with username: admin, password: toor
+2025-05-20 21:53:32,683 - 127.0.0.1, admin, toor
+2025-05-20 21:53:32,683 - Auth rejected (password).
+2025-05-20 21:53:32,692 - Auth rejected (none).
+2025-05-20 21:53:32,693 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 21:53:32,693 - 127.0.0.1, admin, admin
+2025-05-20 21:53:32,693 - Auth rejected (password).
+2025-05-20 21:53:32,694 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,693 - Client 127.0.0.1 attempted connection with username: admin, password: 12345
+2025-05-20 21:53:32,694 - 127.0.0.1, admin, 12345
+2025-05-20 21:53:32,694 - Auth rejected (password).
+2025-05-20 21:53:32,695 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,697 - Auth rejected (none).
+2025-05-20 21:53:32,697 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 21:53:32,697 - 127.0.0.1, root , 123456
+2025-05-20 21:53:32,697 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,697 - Auth rejected (password).
+2025-05-20 21:53:32,702 - Auth rejected (none).
+2025-05-20 21:53:32,702 - Auth rejected (none).
+2025-05-20 21:53:32,703 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 21:53:32,703 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 21:53:32,704 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,703 - 127.0.0.1, admin, 123456
+2025-05-20 21:53:32,704 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 21:53:32,704 - 127.0.0.1, admin, admin123
+2025-05-20 21:53:32,705 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,707 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,708 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,707 - 127.0.0.1, root , root
+2025-05-20 21:53:32,709 - Auth rejected (password).
+2025-05-20 21:53:32,711 - Auth rejected (password).
+2025-05-20 21:53:32,713 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,720 - Auth rejected (password).
+2025-05-20 21:53:32,721 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,731 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,730 - Client 127.0.0.1 attempted connection with username: root , password: toor
+2025-05-20 21:53:32,734 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,735 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,735 - 127.0.0.1, root , toor
+2025-05-20 21:53:32,737 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,741 - Auth rejected (password).
+2025-05-20 21:53:32,744 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,746 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,772 - Auth rejected (none).
+2025-05-20 21:53:32,773 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 21:53:32,773 - 127.0.0.1, root , admin
+2025-05-20 21:53:32,773 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,773 - Auth rejected (password).
+2025-05-20 21:53:32,773 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,774 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,793 - Auth rejected (none).
+2025-05-20 21:53:32,793 - Auth rejected (none).
+2025-05-20 21:53:32,794 - Client 127.0.0.1 attempted connection with username: root , password: 12345
+2025-05-20 21:53:32,794 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 21:53:32,794 - 127.0.0.1, root , 12345
+2025-05-20 21:53:32,795 - 127.0.0.1, hamad, 123456
+2025-05-20 21:53:32,795 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,795 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,796 - Auth rejected (password).
+2025-05-20 21:53:32,796 - Auth rejected (password).
+2025-05-20 21:53:32,797 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,799 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,802 - Auth rejected (none).
+2025-05-20 21:53:32,803 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 21:53:32,803 - 127.0.0.1, root , admin123
+2025-05-20 21:53:32,803 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,803 - Auth rejected (password).
+2025-05-20 21:53:32,807 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,808 - Client 127.0.0.1 attempted connection with username: hamad, password: toor
+2025-05-20 21:53:32,809 - 127.0.0.1, hamad, toor
+2025-05-20 21:53:32,810 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,810 - Auth rejected (password).
+2025-05-20 21:53:32,811 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,813 - Auth rejected (none).
+2025-05-20 21:53:32,813 - Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+2025-05-20 21:53:32,814 - 127.0.0.1, hamad, admin123
+2025-05-20 21:53:32,814 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,814 - Auth rejected (password).
+2025-05-20 21:53:32,818 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,818 - Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+2025-05-20 21:53:32,819 - 127.0.0.1, hamad, 12345
+2025-05-20 21:53:32,819 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,819 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,820 - Auth rejected (password).
+2025-05-20 21:53:32,821 - Auth rejected (none).
+2025-05-20 21:53:32,821 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 21:53:32,821 - 127.0.0.1, username, 123456
+2025-05-20 21:53:32,821 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,821 - Auth rejected (password).
+2025-05-20 21:53:32,822 - Auth rejected (none).
+2025-05-20 21:53:32,822 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-20 21:53:32,823 - 127.0.0.1, hamad, admin
+2025-05-20 21:53:32,823 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,823 - Auth rejected (password).
+2025-05-20 21:53:32,828 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,828 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,829 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 21:53:32,829 - 127.0.0.1, username, admin123
+2025-05-20 21:53:32,830 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,830 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,830 - Auth rejected (password).
+2025-05-20 21:53:32,831 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,835 - Auth rejected (none).
+2025-05-20 21:53:32,835 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 21:53:32,835 - 127.0.0.1, username, root
+2025-05-20 21:53:32,835 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,835 - Auth rejected (password).
+2025-05-20 21:53:32,838 - Client 127.0.0.1 attempted connection with username: username, password: toor
+2025-05-20 21:53:32,838 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 21:53:32,838 - 127.0.0.1, username, toor
+2025-05-20 21:53:32,838 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,838 - 127.0.0.1, username, 12345
+2025-05-20 21:53:32,838 - Auth rejected (password).
+2025-05-20 21:53:32,839 - Auth granted (password).
+2025-05-20 21:53:32,848 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,849 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,851 - Auth rejected (none).
+2025-05-20 21:53:32,851 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 21:53:32,851 - 127.0.0.1, john , 123456
+2025-05-20 21:53:32,851 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,851 - Auth rejected (password).
+2025-05-20 21:53:32,852 - Auth rejected (none).
+2025-05-20 21:53:32,853 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-20 21:53:32,853 - 127.0.0.1, hamad, root
+2025-05-20 21:53:32,853 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,853 - Auth rejected (password).
+2025-05-20 21:53:32,859 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,859 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,859 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-20 21:53:32,861 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,861 - 127.0.0.1, john , admin
+2025-05-20 21:53:32,861 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,862 - Auth rejected (password).
+2025-05-20 21:53:32,862 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,865 - Auth rejected (none).
+2025-05-20 21:53:32,866 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-20 21:53:32,866 - 127.0.0.1, john , admin123
+2025-05-20 21:53:32,866 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,866 - Auth rejected (password).
+2025-05-20 21:53:32,869 - Client 127.0.0.1 attempted connection with username: john , password: toor
+2025-05-20 21:53:32,869 - 127.0.0.1, john , toor
+2025-05-20 21:53:32,869 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-20 21:53:32,869 - 127.0.0.1, john , 12345
+2025-05-20 21:53:32,869 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,869 - Auth rejected (password).
+2025-05-20 21:53:32,869 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,869 - Auth rejected (password).
+2025-05-20 21:53:32,879 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,879 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,881 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,882 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,885 - Auth rejected (none).
+2025-05-20 21:53:32,885 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 21:53:32,885 - 127.0.0.1, test , admin
+2025-05-20 21:53:32,885 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,885 - Auth rejected (password).
+2025-05-20 21:53:32,889 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-20 21:53:32,889 - 127.0.0.1, test , root
+2025-05-20 21:53:32,889 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,889 - Auth rejected (password).
+2025-05-20 21:53:32,892 - Auth rejected (none).
+2025-05-20 21:53:32,892 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 21:53:32,892 - 127.0.0.1, username, admin
+2025-05-20 21:53:32,892 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,892 - Auth rejected (password).
+2025-05-20 21:53:32,899 - Disconnect (code 11): Bye Bye
+2025-05-20 21:53:32,899 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-20 21:53:32,900 - 127.0.0.1, test , toor
+2025-05-20 21:53:32,900 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 21:53:32,900 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,900 - Auth rejected (password).
+2025-05-20 21:53:32,902 - Auth rejected (none).
+2025-05-20 21:53:32,903 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-20 21:53:32,903 - 127.0.0.1, test , admin123
+2025-05-20 21:53:32,903 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,903 - Auth rejected (password).
+2025-05-20 21:53:32,909 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-20 21:53:32,910 - 127.0.0.1, test , 12345
+2025-05-20 21:53:32,910 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,910 - Auth rejected (password).
+2025-05-20 21:53:32,922 - Auth rejected (none).
+2025-05-20 21:53:32,923 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-20 21:53:32,923 - 127.0.0.1, john , root
+2025-05-20 21:53:32,923 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,923 - Auth rejected (password).
+2025-05-20 21:53:32,932 - Auth rejected (none).
+2025-05-20 21:53:32,933 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 21:53:32,933 - 127.0.0.1, test , 123456
+2025-05-20 21:53:32,933 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 21:53:32,933 - Auth rejected (password).
+2025-05-20 21:53:56,842 - 127.0.0.1 - - [20/May/2025 21:53:56] "GET / HTTP/1.0" 200 -
+2025-05-20 21:53:56,859 - 127.0.0.1 - - [20/May/2025 21:53:56] "OPTIONS / HTTP/1.0" 200 -
+2025-05-20 21:53:56,871 - 127.0.0.1 - - [20/May/2025 21:53:56] code 400, message Bad request version ('RTSP/1.0')
+2025-05-20 21:53:56,871 - 127.0.0.1 - - [20/May/2025 21:53:56] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-05-20 21:54:01,873 - 127.0.0.1 - - [20/May/2025 21:54:01] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-05-20 21:54:01,873 - 127.0.0.1 - - [20/May/2025 21:54:01] "[31m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:54:05,898 - Exception (server): Error reading SSH protocol banner
+2025-05-20 21:54:05,914 - Traceback (most recent call last):
+2025-05-20 21:54:05,914 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2369, in _check_banner
+2025-05-20 21:54:05,914 -     buf = self.packetizer.readline(timeout)
+2025-05-20 21:54:05,914 -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-20 21:54:05,914 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 395, in readline
+2025-05-20 21:54:05,914 -     buf += self._read_timeout(timeout)
+2025-05-20 21:54:05,914 -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-20 21:54:05,915 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 673, in _read_timeout
+2025-05-20 21:54:05,915 -     raise socket.timeout()
+2025-05-20 21:54:05,915 - TimeoutError
+2025-05-20 21:54:05,915 - 
+2025-05-20 21:54:05,915 - During handling of the above exception, another exception occurred:
+2025-05-20 21:54:05,915 - 
+2025-05-20 21:54:05,915 - Traceback (most recent call last):
+2025-05-20 21:54:05,915 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2185, in run
+2025-05-20 21:54:05,915 -     self._check_banner()
+2025-05-20 21:54:05,915 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2373, in _check_banner
+2025-05-20 21:54:05,915 -     raise SSHException(
+2025-05-20 21:54:05,915 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-05-20 21:54:05,915 - 
+2025-05-20 21:54:06,879 - 127.0.0.1 - - [20/May/2025 21:54:06] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-20 21:54:06,879 - 127.0.0.1 - - [20/May/2025 21:54:06] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-05-20 21:54:11,885 - 127.0.0.1 - - [20/May/2025 21:54:11] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-20 21:54:11,886 - 127.0.0.1 - - [20/May/2025 21:54:11] "[31m[1m\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:54:11,888 - 127.0.0.1 - - [20/May/2025 21:54:11] code 400, message Bad request syntax ('HELP')
+2025-05-20 21:54:11,889 - 127.0.0.1 - - [20/May/2025 21:54:11] "[31m[1mHELP[0m" 400 -
+2025-05-20 21:54:11,893 - 127.0.0.1 - - [20/May/2025 21:54:11] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-05-20 21:54:11,893 - 127.0.0.1 - - [20/May/2025 21:54:11] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-05-20 21:54:11,900 - 127.0.0.1 - - [20/May/2025 21:54:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+2025-05-20 21:54:11,901 - 127.0.0.1 - - [20/May/2025 21:54:11] "[31m[1m\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie: mstshash=nmap[0m" 400 -
+2025-05-20 21:54:11,905 - 127.0.0.1 - - [20/May/2025 21:54:11] code 400, message Bad request version ('\x00/\x00')
+2025-05-20 21:54:11,905 - 127.0.0.1 - - [20/May/2025 21:54:11] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-05-20 21:54:11,907 - 127.0.0.1 - - [20/May/2025 21:54:11] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+2025-05-20 21:54:11,907 - 127.0.0.1 - - [20/May/2025 21:54:11] "[31m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" 400 -
+2025-05-20 21:54:16,914 - 127.0.0.1 - - [20/May/2025 21:54:16] code 400, message Bad request version ('0.12\x00')
+2025-05-20 21:54:16,916 - 127.0.0.1 - - [20/May/2025 21:54:16] "[31m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-05-20 21:54:21,920 - 127.0.0.1 - - [20/May/2025 21:54:21] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-05-20 21:54:21,920 - 127.0.0.1 - - [20/May/2025 21:54:21] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:54:21,921 - 127.0.0.1 - - [20/May/2025 21:54:21] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-05-20 21:54:21,932 - 127.0.0.1 - - [20/May/2025 21:54:21] code 400, message Bad request syntax ('\x01default')
+2025-05-20 21:54:21,932 - 127.0.0.1 - - [20/May/2025 21:54:21] "[31m[1m\x01default[0m" 400 -
+2025-05-20 21:54:21,933 - 127.0.0.1 - - [20/May/2025 21:54:21] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+2025-05-20 21:54:21,934 - 127.0.0.1 - - [20/May/2025 21:54:21] "[31m[1m0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00[0m" 400 -
+2025-05-20 21:54:26,939 - 127.0.0.1 - - [20/May/2025 21:54:26] code 400, message Bad HTTP/0.9 request type ('0')
+2025-05-20 21:54:26,942 - 127.0.0.1 - - [20/May/2025 21:54:26] code 400, message Bad request version ('SIP/2.0')
+2025-05-20 21:54:26,942 - 127.0.0.1 - - [20/May/2025 21:54:26] "[31m[1m0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00[0m" 400 -
+2025-05-20 21:54:26,942 - 127.0.0.1 - - [20/May/2025 21:54:26] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-05-20 21:54:31,950 - 127.0.0.1 - - [20/May/2025 21:54:31] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+2025-05-20 21:54:31,951 - 127.0.0.1 - - [20/May/2025 21:54:31] "[31m[1mTNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00[0m" 400 -
+2025-05-20 21:54:36,956 - 127.0.0.1 - - [20/May/2025 21:54:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+2025-05-20 21:54:36,959 - 127.0.0.1 - - [20/May/2025 21:54:36] "[31m[1m\x03\x00\x00\x0b\x06à\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:54:41,962 - 127.0.0.1 - - [20/May/2025 21:54:41] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+2025-05-20 21:54:41,963 - 127.0.0.1 - - [20/May/2025 21:54:41] "[31m[1mDmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13[0m" 400 -
+2025-05-20 21:54:46,968 - 127.0.0.1 - - [20/May/2025 21:54:46] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+2025-05-20 21:54:46,969 - 127.0.0.1 - - [20/May/2025 21:54:46] "[31m[1m:\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:54:51,974 - 127.0.0.1 - - [20/May/2025 21:54:51] code 400, message Bad request syntax ('JRMI\x00\x02K')
+2025-05-20 21:54:51,975 - 127.0.0.1 - - [20/May/2025 21:54:51] "[31m[1mJRMI\x00\x02K[0m" 400 -
+2025-05-20 21:54:56,980 - 127.0.0.1 - - [20/May/2025 21:54:56] code 400, message Bad request version ('\x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+2025-05-20 21:54:56,981 - 127.0.0.1 - - [20/May/2025 21:54:56] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_[0m" 400 -
+2025-05-20 21:55:01,986 - 127.0.0.1 - - [20/May/2025 21:55:01] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+2025-05-20 21:55:01,987 - 127.0.0.1 - - [20/May/2025 21:55:01] "[31m[1m\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004æ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))[0m" 400 -
+2025-05-20 21:55:06,992 - 127.0.0.1 - - [20/May/2025 21:55:06] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+2025-05-20 21:55:06,994 - 127.0.0.1 - - [20/May/2025 21:55:06] "[31m[1m\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00[0m" 400 -
+2025-05-20 21:55:11,997 - 127.0.0.1 - - [20/May/2025 21:55:11] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+2025-05-20 21:55:11,998 - 127.0.0.1 - - [20/May/2025 21:55:11] "[31m[1m\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00[0m" 400 -
+2025-05-20 21:55:17,004 - 127.0.0.1 - - [20/May/2025 21:55:17] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2025-05-20 21:55:17,004 - 127.0.0.1 - - [20/May/2025 21:55:17] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:55:18,026 - 127.0.0.1 - - [20/May/2025 21:55:18] code 400, message Bad request version ('\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-05-20 21:55:18,026 - 127.0.0.1 - - [20/May/2025 21:55:18] "[31m[1m\x80\x00\x00(\x1då\x89û\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 21:56:21,345 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-20 21:56:21,349 - Auth rejected (none).
+2025-05-20 21:56:25,534 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 21:56:25,536 - 127.0.0.1, username, 12345
+2025-05-20 21:56:25,537 - Auth granted (password).
+2025-05-20 21:56:40,271 - Command b'ls'executed by 127.0.0.1
+2025-05-20 21:56:45,099 - Command b'cat notes.txt'executed by 127.0.0.1
+2025-05-20 21:57:19,928 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 21:57:19,928 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 21:58:01,181 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 21:58:01,183 - 127.0.0.1 - - [20/May/2025 21:58:01] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 21:58:14,267 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 21:58:14,267 - 127.0.0.1 - - [20/May/2025 21:58:14] "GET /wp-config.php HTTP/1.1" 200 -
+2025-05-20 21:58:37,232 - 127.0.0.1 - - [20/May/2025 21:58:37] "GET / HTTP/1.1" 200 -
+2025-05-20 21:58:37,750 - 127.0.0.1 - - [20/May/2025 21:58:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-20 21:58:49,073 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 21:58:49,073 - 127.0.0.1 - - [20/May/2025 21:58:49] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 21:59:16,355 - concurrency model: async
+2025-05-20 21:59:16,355 - masquerade (NAT) address: None
+2025-05-20 21:59:16,355 - passive ports: None
+2025-05-20 21:59:16,355 - >>> starting FTP server on 0.0.0.0:2121, pid=89203 <<<
+2025-05-20 21:59:24,955 - 127.0.0.1:52022-[] FTP session opened (connect)
+2025-05-20 21:59:39,463 - 127.0.0.1:52022-[] USER 'admin' failed login.
+2025-05-20 21:59:41,441 - 127.0.0.1:52022-[] FTP session closed (disconnect).
+2025-05-20 21:59:43,064 - 127.0.0.1:54460-[] FTP session opened (connect)
+2025-05-20 21:59:47,823 - 127.0.0.1:54460-[admin] USER 'admin' logged in.
+2025-05-20 22:34:21,442 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 22:34:21,444 - [33mPress CTRL+C to quit[0m
+2025-05-20 22:35:13,782 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:13,837 - Auth rejected (none).
+2025-05-20 22:35:13,837 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,051 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,053 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,053 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,056 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,103 - Auth rejected (none).
+2025-05-20 22:35:14,103 - Auth rejected (none).
+2025-05-20 22:35:14,103 - Auth rejected (none).
+2025-05-20 22:35:14,104 - Auth rejected (none).
+2025-05-20 22:35:14,105 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 22:35:14,105 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 22:35:14,106 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 22:35:14,107 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 22:35:14,107 - 127.0.0.1, admin, 123456
+2025-05-20 22:35:14,109 - Auth granted (password).
+2025-05-20 22:35:14,108 - 127.0.0.1, admin, root
+2025-05-20 22:35:14,110 - Auth granted (password).
+2025-05-20 22:35:14,108 - 127.0.0.1, admin, admin
+2025-05-20 22:35:14,110 - Auth granted (password).
+2025-05-20 22:35:14,109 - 127.0.0.1, admin, admin123
+2025-05-20 22:35:14,111 - Auth granted (password).
+2025-05-20 22:35:14,121 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,121 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,131 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,131 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,132 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,132 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,135 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,136 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,172 - Auth rejected (none).
+2025-05-20 22:35:14,173 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 22:35:14,173 - 127.0.0.1, root , 123456
+2025-05-20 22:35:14,173 - Auth granted (password).
+2025-05-20 22:35:14,182 - Auth rejected (none).
+2025-05-20 22:35:14,182 - Auth rejected (none).
+2025-05-20 22:35:14,183 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 22:35:14,183 - 127.0.0.1, root , admin
+2025-05-20 22:35:14,183 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 22:35:14,183 - Auth granted (password).
+2025-05-20 22:35:14,183 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,183 - 127.0.0.1, root , admin123
+2025-05-20 22:35:14,184 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,184 - Auth granted (password).
+2025-05-20 22:35:14,186 - Auth rejected (none).
+2025-05-20 22:35:14,186 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 22:35:14,186 - 127.0.0.1, hamad, 123456
+2025-05-20 22:35:14,186 - Auth granted (password).
+2025-05-20 22:35:14,193 - Auth rejected (none).
+2025-05-20 22:35:14,194 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 22:35:14,194 - 127.0.0.1, root , root
+2025-05-20 22:35:14,194 - Auth granted (password).
+2025-05-20 22:35:14,205 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,208 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,210 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,211 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,215 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,215 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,217 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,219 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,223 - Auth rejected (none).
+2025-05-20 22:35:14,223 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 22:35:14,224 - 127.0.0.1, username, root
+2025-05-20 22:35:14,224 - Auth granted (password).
+2025-05-20 22:35:14,235 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,237 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,239 - Auth rejected (none).
+2025-05-20 22:35:14,239 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 22:35:14,239 - 127.0.0.1, john , 123456
+2025-05-20 22:35:14,239 - Auth granted (password).
+2025-05-20 22:35:14,256 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,256 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,262 - Auth rejected (none).
+2025-05-20 22:35:14,262 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 22:35:14,262 - 127.0.0.1, username, admin
+2025-05-20 22:35:14,263 - Auth granted (password).
+2025-05-20 22:35:14,272 - Auth rejected (none).
+2025-05-20 22:35:14,272 - Auth rejected (none).
+2025-05-20 22:35:14,273 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 22:35:14,273 - 127.0.0.1, username, 123456
+2025-05-20 22:35:14,273 - Auth granted (password).
+2025-05-20 22:35:14,273 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 22:35:14,273 - 127.0.0.1, username, admin123
+2025-05-20 22:35:14,273 - Auth granted (password).
+2025-05-20 22:35:14,276 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,277 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,279 - Auth rejected (none).
+2025-05-20 22:35:14,279 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 22:35:14,279 - 127.0.0.1, test , admin
+2025-05-20 22:35:14,279 - Auth granted (password).
+2025-05-20 22:35:14,286 - Disconnect (code 11): Bye Bye
+2025-05-20 22:35:14,289 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 22:35:14,312 - Auth rejected (none).
+2025-05-20 22:35:14,313 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 22:35:14,313 - 127.0.0.1, test , 123456
+2025-05-20 22:35:14,313 - Auth granted (password).
+2025-05-20 22:35:14,343 - Auth rejected (none).
+2025-05-20 22:35:14,344 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-20 22:35:14,345 - 127.0.0.1, test , root
+2025-05-20 22:35:14,345 - Auth granted (password).
+2025-05-20 22:35:44,569 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-20 22:35:44,574 - Auth rejected (none).
+2025-05-20 22:35:49,067 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 22:35:49,067 - 127.0.0.1, username, 12345
+2025-05-20 22:35:49,067 - Auth granted (password).
+2025-05-20 22:36:04,281 - Command b'ls'executed by 127.0.0.1
+2025-05-20 22:36:11,762 - Command b'cat notes.txt'executed by 127.0.0.1
+2025-05-20 22:36:51,512 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 22:36:51,512 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 22:37:23,940 - 127.0.0.1 - - [20/May/2025 22:37:23] "GET / HTTP/1.1" 200 -
+2025-05-20 22:37:33,363 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 22:37:33,365 - 127.0.0.1 - - [20/May/2025 22:37:33] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 22:37:52,842 - IP 127.0.0.1 accessed /wp-config.php
+2025-05-20 22:37:52,843 - 127.0.0.1 - - [20/May/2025 22:37:52] "GET /wp-config.php HTTP/1.1" 200 -
+2025-05-20 22:37:55,123 - 127.0.0.1 - - [20/May/2025 22:37:55] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 22:38:20,116 - concurrency model: async
+2025-05-20 22:38:20,116 - masquerade (NAT) address: None
+2025-05-20 22:38:20,116 - passive ports: None
+2025-05-20 22:38:20,117 - >>> starting FTP server on 0.0.0.0:2121, pid=96752 <<<
+2025-05-20 22:38:21,860 - 127.0.0.1:36762-[] FTP session opened (connect)
+2025-05-20 22:38:27,629 - 127.0.0.1:36762-[admin] USER 'admin' logged in.
+2025-05-20 22:38:39,534 - 127.0.0.1:36762-[admin] CWD /tmp/ftp_honeypot/condfi 550 'No such file or directory.'
+2025-05-20 22:38:44,986 - 127.0.0.1:36762-[admin] CWD /tmp/ftp_honeypot/confidential 250
+2025-05-20 22:38:50,774 - 127.0.0.1:36762-[admin] RETR /tmp/ftp_honeypot/confidential/secret_plans.txt completed=1 bytes=141 seconds=0.001
+2025-05-20 22:38:58,577 - 127.0.0.1:36762-[admin] FTP session closed (disconnect).
+2025-05-20 22:39:08,184 - 127.0.0.1:35390-[] FTP session opened (connect)
+2025-05-20 22:39:16,332 - 127.0.0.1:35390-[] USER 'admin' failed login.
+2025-05-20 22:39:18,459 - 127.0.0.1:35390-[] FTP session closed (disconnect).
+2025-05-20 22:39:19,807 - 127.0.0.1:58092-[] FTP session opened (connect)
+2025-05-20 22:39:23,946 - 127.0.0.1:58092-[admin] USER 'admin' logged in.
+2025-05-20 22:39:42,829 - 127.0.0.1:58092-[admin] FTP session closed (disconnect).
+2025-05-20 23:04:08,486 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 23:04:08,487 - [33mPress CTRL+C to quit[0m
+2025-05-20 23:05:02,020 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,112 - Auth rejected (none).
+2025-05-20 23:05:02,113 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,329 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,331 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,337 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,338 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,342 - Auth rejected (none).
+2025-05-20 23:05:02,342 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 23:05:02,344 - 127.0.0.1, admin, root
+2025-05-20 23:05:02,345 - Auth rejected (password).
+2025-05-20 23:05:02,345 - Client 127.0.0.1 attempted connection with username: admin, password: toor
+2025-05-20 23:05:02,345 - 127.0.0.1, admin, toor
+2025-05-20 23:05:02,345 - Auth rejected (password).
+2025-05-20 23:05:02,356 - Client 127.0.0.1 attempted connection with username: admin, password: 12345
+2025-05-20 23:05:02,356 - 127.0.0.1, admin, 12345
+2025-05-20 23:05:02,356 - Auth rejected (password).
+2025-05-20 23:05:02,366 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,367 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,369 - Auth rejected (none).
+2025-05-20 23:05:02,369 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 23:05:02,370 - 127.0.0.1, root , 123456
+2025-05-20 23:05:02,370 - Auth rejected (password).
+2025-05-20 23:05:02,376 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 23:05:02,376 - 127.0.0.1, root , admin
+2025-05-20 23:05:02,376 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,376 - Auth rejected (password).
+2025-05-20 23:05:02,382 - Auth rejected (none).
+2025-05-20 23:05:02,383 - Auth rejected (none).
+2025-05-20 23:05:02,384 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 23:05:02,384 - 127.0.0.1, admin, 123456
+2025-05-20 23:05:02,384 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,384 - Auth rejected (password).
+2025-05-20 23:05:02,384 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 23:05:02,385 - 127.0.0.1, admin, admin
+2025-05-20 23:05:02,385 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,385 - Auth rejected (password).
+2025-05-20 23:05:02,386 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,386 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,386 - Client 127.0.0.1 attempted connection with username: root , password: toor
+2025-05-20 23:05:02,387 - 127.0.0.1, root , toor
+2025-05-20 23:05:02,387 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,387 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,388 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,388 - Auth rejected (password).
+2025-05-20 23:05:02,392 - Auth rejected (none).
+2025-05-20 23:05:02,392 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 23:05:02,392 - 127.0.0.1, admin, admin123
+2025-05-20 23:05:02,392 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,392 - Auth rejected (password).
+2025-05-20 23:05:02,396 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,396 - Client 127.0.0.1 attempted connection with username: root , password: 12345
+2025-05-20 23:05:02,397 - 127.0.0.1, root , 12345
+2025-05-20 23:05:02,397 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,397 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,397 - Auth rejected (password).
+2025-05-20 23:05:02,406 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,407 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,409 - Auth rejected (none).
+2025-05-20 23:05:02,409 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-20 23:05:02,409 - 127.0.0.1, hamad, admin
+2025-05-20 23:05:02,409 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,409 - Auth rejected (password).
+2025-05-20 23:05:02,416 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-20 23:05:02,416 - 127.0.0.1, hamad, root
+2025-05-20 23:05:02,416 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,417 - Auth rejected (password).
+2025-05-20 23:05:02,426 - Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+2025-05-20 23:05:02,427 - 127.0.0.1, hamad, admin123
+2025-05-20 23:05:02,427 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,427 - Auth rejected (password).
+2025-05-20 23:05:02,437 - Client 127.0.0.1 attempted connection with username: hamad, password: toor
+2025-05-20 23:05:02,437 - 127.0.0.1, hamad, toor
+2025-05-20 23:05:02,437 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,437 - Auth rejected (password).
+2025-05-20 23:05:02,442 - Auth rejected (none).
+2025-05-20 23:05:02,442 - Auth rejected (none).
+2025-05-20 23:05:02,443 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 23:05:02,443 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 23:05:02,443 - 127.0.0.1, root , root
+2025-05-20 23:05:02,443 - 127.0.0.1, root , admin123
+2025-05-20 23:05:02,443 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,443 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,443 - Auth rejected (password).
+2025-05-20 23:05:02,443 - Auth rejected (password).
+2025-05-20 23:05:02,447 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,447 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,447 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,448 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,449 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,451 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,453 - Auth rejected (none).
+2025-05-20 23:05:02,455 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 23:05:02,457 - 127.0.0.1, hamad, 123456
+2025-05-20 23:05:02,457 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,457 - Auth rejected (password).
+2025-05-20 23:05:02,457 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,458 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,459 - Auth rejected (none).
+2025-05-20 23:05:02,460 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 23:05:02,460 - 127.0.0.1, username, root
+2025-05-20 23:05:02,460 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,460 - Auth rejected (password).
+2025-05-20 23:05:02,468 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 23:05:02,468 - 127.0.0.1, username, admin123
+2025-05-20 23:05:02,468 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,468 - Auth rejected (password).
+2025-05-20 23:05:02,478 - Client 127.0.0.1 attempted connection with username: username, password: toor
+2025-05-20 23:05:02,478 - 127.0.0.1, username, toor
+2025-05-20 23:05:02,478 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,478 - Auth rejected (password).
+2025-05-20 23:05:02,488 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 23:05:02,488 - 127.0.0.1, username, 12345
+2025-05-20 23:05:02,488 - Auth granted (password).
+2025-05-20 23:05:02,503 - Auth rejected (none).
+2025-05-20 23:05:02,503 - Auth rejected (none).
+2025-05-20 23:05:02,503 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 23:05:02,503 - 127.0.0.1, username, admin
+2025-05-20 23:05:02,503 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 23:05:02,504 - 127.0.0.1, username, 123456
+2025-05-20 23:05:02,503 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,504 - Auth rejected (password).
+2025-05-20 23:05:02,504 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,504 - Auth rejected (password).
+2025-05-20 23:05:02,508 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,508 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,509 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,511 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,512 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,512 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,513 - Auth rejected (none).
+2025-05-20 23:05:02,515 - Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+2025-05-20 23:05:02,516 - 127.0.0.1, hamad, 12345
+2025-05-20 23:05:02,517 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,518 - Auth rejected (password).
+2025-05-20 23:05:02,518 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,519 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,520 - Auth rejected (none).
+2025-05-20 23:05:02,521 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-20 23:05:02,521 - 127.0.0.1, john , admin123
+2025-05-20 23:05:02,521 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,521 - Auth rejected (password).
+2025-05-20 23:05:02,529 - Client 127.0.0.1 attempted connection with username: john , password: toor
+2025-05-20 23:05:02,529 - 127.0.0.1, john , toor
+2025-05-20 23:05:02,529 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,529 - Auth rejected (password).
+2025-05-20 23:05:02,538 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-20 23:05:02,539 - 127.0.0.1, john , 12345
+2025-05-20 23:05:02,539 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,539 - Auth rejected (password).
+2025-05-20 23:05:02,549 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,549 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,551 - Auth rejected (none).
+2025-05-20 23:05:02,551 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 23:05:02,552 - 127.0.0.1, test , 123456
+2025-05-20 23:05:02,552 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,552 - Auth rejected (password).
+2025-05-20 23:05:02,559 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 23:05:02,559 - 127.0.0.1, test , admin
+2025-05-20 23:05:02,559 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,559 - Auth rejected (password).
+2025-05-20 23:05:02,563 - Auth rejected (none).
+2025-05-20 23:05:02,563 - Auth rejected (none).
+2025-05-20 23:05:02,563 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-20 23:05:02,563 - 127.0.0.1, john , root
+2025-05-20 23:05:02,563 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,564 - Auth rejected (password).
+2025-05-20 23:05:02,564 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 23:05:02,564 - 127.0.0.1, john , 123456
+2025-05-20 23:05:02,564 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,564 - Auth rejected (password).
+2025-05-20 23:05:02,569 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-20 23:05:02,569 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,569 - 127.0.0.1, test , root
+2025-05-20 23:05:02,569 - Disconnect (code 11): Bye Bye
+2025-05-20 23:05:02,570 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,570 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,570 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:05:02,570 - Auth rejected (password).
+2025-05-20 23:05:02,573 - Auth rejected (none).
+2025-05-20 23:05:02,574 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-20 23:05:02,575 - 127.0.0.1, john , admin
+2025-05-20 23:05:02,575 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,575 - Auth rejected (password).
+2025-05-20 23:05:02,579 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-20 23:05:02,579 - 127.0.0.1, test , 12345
+2025-05-20 23:05:02,579 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,579 - Auth rejected (password).
+2025-05-20 23:05:02,622 - Auth rejected (none).
+2025-05-20 23:05:02,623 - Auth rejected (none).
+2025-05-20 23:05:02,623 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-20 23:05:02,623 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-20 23:05:02,623 - 127.0.0.1, test , toor
+2025-05-20 23:05:02,624 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,624 - Auth rejected (password).
+2025-05-20 23:05:02,623 - 127.0.0.1, test , admin123
+2025-05-20 23:05:02,624 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:05:02,624 - Auth rejected (password).
+2025-05-20 23:34:43,431 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-20 23:34:43,432 - [33mPress CTRL+C to quit[0m
+2025-05-20 23:35:19,786 - 127.0.0.1 - - [20/May/2025 23:35:19] "GET / HTTP/1.0" 200 -
+2025-05-20 23:35:19,803 - 127.0.0.1 - - [20/May/2025 23:35:19] "OPTIONS / HTTP/1.0" 200 -
+2025-05-20 23:35:19,814 - 127.0.0.1 - - [20/May/2025 23:35:19] code 400, message Bad request version ('RTSP/1.0')
+2025-05-20 23:35:19,814 - 127.0.0.1 - - [20/May/2025 23:35:19] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-05-20 23:35:24,816 - 127.0.0.1 - - [20/May/2025 23:35:24] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-05-20 23:35:24,816 - 127.0.0.1 - - [20/May/2025 23:35:24] "[31m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:35:28,816 - Exception (server): Error reading SSH protocol banner
+2025-05-20 23:35:28,824 - Traceback (most recent call last):
+2025-05-20 23:35:28,824 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2369, in _check_banner
+2025-05-20 23:35:28,824 -     buf = self.packetizer.readline(timeout)
+2025-05-20 23:35:28,824 -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-20 23:35:28,824 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 395, in readline
+2025-05-20 23:35:28,824 -     buf += self._read_timeout(timeout)
+2025-05-20 23:35:28,824 -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-20 23:35:28,824 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 673, in _read_timeout
+2025-05-20 23:35:28,824 -     raise socket.timeout()
+2025-05-20 23:35:28,824 - TimeoutError
+2025-05-20 23:35:28,824 - 
+2025-05-20 23:35:28,824 - During handling of the above exception, another exception occurred:
+2025-05-20 23:35:28,824 - 
+2025-05-20 23:35:28,824 - Traceback (most recent call last):
+2025-05-20 23:35:28,824 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2185, in run
+2025-05-20 23:35:28,824 -     self._check_banner()
+2025-05-20 23:35:28,824 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2373, in _check_banner
+2025-05-20 23:35:28,824 -     raise SSHException(
+2025-05-20 23:35:28,824 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-05-20 23:35:28,824 - 
+2025-05-20 23:35:29,820 - 127.0.0.1 - - [20/May/2025 23:35:29] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-20 23:35:29,821 - 127.0.0.1 - - [20/May/2025 23:35:29] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-05-20 23:35:35,231 - 127.0.0.1 - - [20/May/2025 23:35:35] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-20 23:35:35,232 - 127.0.0.1 - - [20/May/2025 23:35:35] "[31m[1m\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:35:35,232 - 127.0.0.1 - - [20/May/2025 23:35:35] code 400, message Bad request syntax ('HELP')
+2025-05-20 23:35:35,233 - 127.0.0.1 - - [20/May/2025 23:35:35] "[31m[1mHELP[0m" 400 -
+2025-05-20 23:35:35,235 - 127.0.0.1 - - [20/May/2025 23:35:35] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-05-20 23:35:35,235 - 127.0.0.1 - - [20/May/2025 23:35:35] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-05-20 23:35:35,238 - 127.0.0.1 - - [20/May/2025 23:35:35] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+2025-05-20 23:35:35,238 - 127.0.0.1 - - [20/May/2025 23:35:35] "[31m[1m\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie: mstshash=nmap[0m" 400 -
+2025-05-20 23:35:35,239 - 127.0.0.1 - - [20/May/2025 23:35:35] code 400, message Bad request version ('\x00/\x00')
+2025-05-20 23:35:35,239 - 127.0.0.1 - - [20/May/2025 23:35:35] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-05-20 23:35:35,240 - 127.0.0.1 - - [20/May/2025 23:35:35] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+2025-05-20 23:35:35,240 - 127.0.0.1 - - [20/May/2025 23:35:35] "[31m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" 400 -
+2025-05-20 23:35:40,246 - 127.0.0.1 - - [20/May/2025 23:35:40] code 400, message Bad request version ('0.12\x00')
+2025-05-20 23:35:40,247 - 127.0.0.1 - - [20/May/2025 23:35:40] "[31m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-05-20 23:35:45,251 - 127.0.0.1 - - [20/May/2025 23:35:45] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-05-20 23:35:45,252 - 127.0.0.1 - - [20/May/2025 23:35:45] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:35:45,255 - 127.0.0.1 - - [20/May/2025 23:35:45] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-05-20 23:35:45,267 - 127.0.0.1 - - [20/May/2025 23:35:45] code 400, message Bad request syntax ('\x01default')
+2025-05-20 23:35:45,267 - 127.0.0.1 - - [20/May/2025 23:35:45] "[31m[1m\x01default[0m" 400 -
+2025-05-20 23:35:45,269 - 127.0.0.1 - - [20/May/2025 23:35:45] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+2025-05-20 23:35:45,269 - 127.0.0.1 - - [20/May/2025 23:35:45] "[31m[1m0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00[0m" 400 -
+2025-05-20 23:35:50,271 - 127.0.0.1 - - [20/May/2025 23:35:50] code 400, message Bad HTTP/0.9 request type ('0')
+2025-05-20 23:35:50,272 - 127.0.0.1 - - [20/May/2025 23:35:50] "[31m[1m0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00[0m" 400 -
+2025-05-20 23:35:50,275 - 127.0.0.1 - - [20/May/2025 23:35:50] code 400, message Bad request version ('SIP/2.0')
+2025-05-20 23:35:50,276 - 127.0.0.1 - - [20/May/2025 23:35:50] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-05-20 23:35:55,284 - 127.0.0.1 - - [20/May/2025 23:35:55] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+2025-05-20 23:35:55,285 - 127.0.0.1 - - [20/May/2025 23:35:55] "[31m[1mTNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00[0m" 400 -
+2025-05-20 23:36:00,285 - 127.0.0.1 - - [20/May/2025 23:36:00] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+2025-05-20 23:36:00,287 - 127.0.0.1 - - [20/May/2025 23:36:00] "[31m[1m\x03\x00\x00\x0b\x06à\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:36:05,825 - 127.0.0.1 - - [20/May/2025 23:36:05] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+2025-05-20 23:36:05,827 - 127.0.0.1 - - [20/May/2025 23:36:05] "[31m[1mDmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13[0m" 400 -
+2025-05-20 23:36:10,832 - 127.0.0.1 - - [20/May/2025 23:36:10] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+2025-05-20 23:36:10,833 - 127.0.0.1 - - [20/May/2025 23:36:10] "[31m[1m:\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:36:15,835 - 127.0.0.1 - - [20/May/2025 23:36:15] code 400, message Bad request syntax ('JRMI\x00\x02K')
+2025-05-20 23:36:15,835 - 127.0.0.1 - - [20/May/2025 23:36:15] "[31m[1mJRMI\x00\x02K[0m" 400 -
+2025-05-20 23:36:20,840 - 127.0.0.1 - - [20/May/2025 23:36:20] code 400, message Bad request version ('\x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+2025-05-20 23:36:20,840 - 127.0.0.1 - - [20/May/2025 23:36:20] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_[0m" 400 -
+2025-05-20 23:36:25,841 - 127.0.0.1 - - [20/May/2025 23:36:25] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+2025-05-20 23:36:25,842 - 127.0.0.1 - - [20/May/2025 23:36:25] "[31m[1m\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004æ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))[0m" 400 -
+2025-05-20 23:36:30,844 - 127.0.0.1 - - [20/May/2025 23:36:30] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+2025-05-20 23:36:30,845 - 127.0.0.1 - - [20/May/2025 23:36:30] "[31m[1m\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00[0m" 400 -
+2025-05-20 23:36:35,850 - 127.0.0.1 - - [20/May/2025 23:36:35] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+2025-05-20 23:36:35,851 - 127.0.0.1 - - [20/May/2025 23:36:35] "[31m[1m\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00[0m" 400 -
+2025-05-20 23:36:41,381 - 127.0.0.1 - - [20/May/2025 23:36:41] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2025-05-20 23:36:41,382 - 127.0.0.1 - - [20/May/2025 23:36:41] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:36:42,408 - 127.0.0.1 - - [20/May/2025 23:36:42] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(>8)3\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+2025-05-20 23:36:42,408 - 127.0.0.1 - - [20/May/2025 23:36:42] "[31m[1m\x80\x00\x00(>8)3\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-20 23:36:47,661 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:47,758 - Auth rejected (none).
+2025-05-20 23:36:47,758 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:47,978 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:47,983 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:47,985 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:47,986 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:47,991 - Auth rejected (none).
+2025-05-20 23:36:47,991 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-20 23:36:47,993 - 127.0.0.1, admin, admin123
+2025-05-20 23:36:47,994 - Auth rejected (password).
+2025-05-20 23:36:47,994 - Client 127.0.0.1 attempted connection with username: admin, password: toor
+2025-05-20 23:36:47,994 - 127.0.0.1, admin, toor
+2025-05-20 23:36:47,994 - Auth rejected (password).
+2025-05-20 23:36:48,004 - Client 127.0.0.1 attempted connection with username: admin, password: 12345
+2025-05-20 23:36:48,004 - 127.0.0.1, admin, 12345
+2025-05-20 23:36:48,004 - Auth rejected (password).
+2025-05-20 23:36:48,014 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,015 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,017 - Auth rejected (none).
+2025-05-20 23:36:48,017 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-20 23:36:48,017 - 127.0.0.1, root , 123456
+2025-05-20 23:36:48,017 - Auth rejected (password).
+2025-05-20 23:36:48,024 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-20 23:36:48,024 - 127.0.0.1, root , admin
+2025-05-20 23:36:48,024 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,024 - Auth rejected (password).
+2025-05-20 23:36:48,027 - Auth rejected (none).
+2025-05-20 23:36:48,028 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-20 23:36:48,028 - 127.0.0.1, admin, 123456
+2025-05-20 23:36:48,028 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,028 - Auth rejected (password).
+2025-05-20 23:36:48,034 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,035 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-20 23:36:48,035 - 127.0.0.1, root , admin123
+2025-05-20 23:36:48,035 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,035 - Auth rejected (password).
+2025-05-20 23:36:48,036 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,037 - Auth rejected (none).
+2025-05-20 23:36:48,037 - Auth rejected (none).
+2025-05-20 23:36:48,037 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-20 23:36:48,037 - 127.0.0.1, root , root
+2025-05-20 23:36:48,038 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,038 - Auth rejected (password).
+2025-05-20 23:36:48,038 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-20 23:36:48,038 - 127.0.0.1, admin, admin
+2025-05-20 23:36:48,038 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,038 - Auth rejected (password).
+2025-05-20 23:36:48,045 - Client 127.0.0.1 attempted connection with username: root , password: toor
+2025-05-20 23:36:48,045 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,045 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,045 - 127.0.0.1, root , toor
+2025-05-20 23:36:48,046 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,046 - Auth rejected (password).
+2025-05-20 23:36:48,046 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,047 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,049 - Auth rejected (none).
+2025-05-20 23:36:48,050 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-20 23:36:48,050 - 127.0.0.1, admin, root
+2025-05-20 23:36:48,051 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,051 - Auth rejected (password).
+2025-05-20 23:36:48,055 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,055 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,056 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,058 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,060 - Auth rejected (none).
+2025-05-20 23:36:48,060 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-20 23:36:48,060 - 127.0.0.1, hamad, root
+2025-05-20 23:36:48,060 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,060 - Auth rejected (password).
+2025-05-20 23:36:48,065 - Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+2025-05-20 23:36:48,065 - 127.0.0.1, hamad, admin123
+2025-05-20 23:36:48,065 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,065 - Auth rejected (password).
+2025-05-20 23:36:48,075 - Client 127.0.0.1 attempted connection with username: hamad, password: toor
+2025-05-20 23:36:48,075 - 127.0.0.1, hamad, toor
+2025-05-20 23:36:48,075 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,075 - Auth rejected (password).
+2025-05-20 23:36:48,085 - Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+2025-05-20 23:36:48,085 - 127.0.0.1, hamad, 12345
+2025-05-20 23:36:48,085 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,085 - Auth rejected (password).
+2025-05-20 23:36:48,095 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,096 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,098 - Auth rejected (none).
+2025-05-20 23:36:48,098 - Auth rejected (none).
+2025-05-20 23:36:48,099 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-20 23:36:48,099 - Client 127.0.0.1 attempted connection with username: root , password: 12345
+2025-05-20 23:36:48,099 - 127.0.0.1, hamad, 123456
+2025-05-20 23:36:48,099 - 127.0.0.1, root , 12345
+2025-05-20 23:36:48,099 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,100 - Auth rejected (password).
+2025-05-20 23:36:48,099 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,100 - Auth rejected (password).
+2025-05-20 23:36:48,105 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,105 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,107 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,107 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,108 - Auth rejected (none).
+2025-05-20 23:36:48,110 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-20 23:36:48,111 - 127.0.0.1, hamad, admin
+2025-05-20 23:36:48,111 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,111 - Auth rejected (password).
+2025-05-20 23:36:48,115 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,116 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,118 - Auth rejected (none).
+2025-05-20 23:36:48,118 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-20 23:36:48,118 - 127.0.0.1, username, admin123
+2025-05-20 23:36:48,118 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,118 - Auth rejected (password).
+2025-05-20 23:36:48,125 - Client 127.0.0.1 attempted connection with username: username, password: toor
+2025-05-20 23:36:48,125 - 127.0.0.1, username, toor
+2025-05-20 23:36:48,126 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,126 - Auth rejected (password).
+2025-05-20 23:36:48,136 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-20 23:36:48,136 - 127.0.0.1, username, 12345
+2025-05-20 23:36:48,136 - Auth granted (password).
+2025-05-20 23:36:48,156 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,156 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,158 - Auth rejected (none).
+2025-05-20 23:36:48,158 - Auth rejected (none).
+2025-05-20 23:36:48,159 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-20 23:36:48,159 - 127.0.0.1, username, 123456
+2025-05-20 23:36:48,159 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,159 - Auth rejected (password).
+2025-05-20 23:36:48,160 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-20 23:36:48,160 - 127.0.0.1, username, admin
+2025-05-20 23:36:48,160 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,160 - Auth rejected (password).
+2025-05-20 23:36:48,166 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,166 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,167 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,168 - Auth rejected (none).
+2025-05-20 23:36:48,168 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-20 23:36:48,168 - 127.0.0.1, username, root
+2025-05-20 23:36:48,169 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,169 - Auth rejected (password).
+2025-05-20 23:36:48,169 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,176 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,179 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,181 - Auth rejected (none).
+2025-05-20 23:36:48,181 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-20 23:36:48,181 - 127.0.0.1, john , admin123
+2025-05-20 23:36:48,181 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,181 - Auth rejected (password).
+2025-05-20 23:36:48,186 - Client 127.0.0.1 attempted connection with username: john , password: toor
+2025-05-20 23:36:48,186 - 127.0.0.1, john , toor
+2025-05-20 23:36:48,186 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,186 - Auth rejected (password).
+2025-05-20 23:36:48,196 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-20 23:36:48,196 - 127.0.0.1, john , 12345
+2025-05-20 23:36:48,196 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,196 - Auth rejected (password).
+2025-05-20 23:36:48,206 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,207 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,209 - Auth rejected (none).
+2025-05-20 23:36:48,209 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-20 23:36:48,209 - 127.0.0.1, test , 123456
+2025-05-20 23:36:48,209 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,209 - Auth rejected (password).
+2025-05-20 23:36:48,216 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-20 23:36:48,216 - 127.0.0.1, test , admin
+2025-05-20 23:36:48,216 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,217 - Auth rejected (password).
+2025-05-20 23:36:48,217 - Auth rejected (none).
+2025-05-20 23:36:48,218 - Auth rejected (none).
+2025-05-20 23:36:48,218 - Auth rejected (none).
+2025-05-20 23:36:48,218 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-20 23:36:48,218 - 127.0.0.1, john , 123456
+2025-05-20 23:36:48,218 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,218 - Auth rejected (password).
+2025-05-20 23:36:48,219 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-20 23:36:48,219 - 127.0.0.1, john , root
+2025-05-20 23:36:48,219 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-20 23:36:48,219 - 127.0.0.1, john , admin
+2025-05-20 23:36:48,219 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,219 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,219 - Auth rejected (password).
+2025-05-20 23:36:48,219 - Auth rejected (password).
+2025-05-20 23:36:48,227 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,227 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,227 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-20 23:36:48,228 - Disconnect (code 11): Bye Bye
+2025-05-20 23:36:48,228 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,228 - 127.0.0.1, test , 12345
+2025-05-20 23:36:48,230 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,230 - Auth rejected (password).
+2025-05-20 23:36:48,231 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,232 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-20 23:36:48,237 - Auth rejected (none).
+2025-05-20 23:36:48,239 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-20 23:36:48,239 - 127.0.0.1, test , admin123
+2025-05-20 23:36:48,239 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,239 - Auth rejected (password).
+2025-05-20 23:36:48,277 - Auth rejected (none).
+2025-05-20 23:36:48,278 - Auth rejected (none).
+2025-05-20 23:36:48,278 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-20 23:36:48,278 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-20 23:36:48,278 - 127.0.0.1, test , toor
+2025-05-20 23:36:48,278 - 127.0.0.1, test , root
+2025-05-20 23:36:48,278 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,278 - Auth rejected (password).
+2025-05-20 23:36:48,278 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-20 23:36:48,278 - Auth rejected (password).
+2025-05-20 23:36:57,485 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-20 23:36:57,486 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-20 23:37:32,843 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-20 23:37:32,845 - 127.0.0.1 - - [20/May/2025 23:37:32] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-20 23:37:45,294 - concurrency model: async
+2025-05-20 23:37:45,294 - masquerade (NAT) address: None
+2025-05-20 23:37:45,294 - passive ports: None
+2025-05-20 23:37:45,294 - >>> starting FTP server on 0.0.0.0:2121, pid=108579 <<<
+2025-05-20 23:37:56,551 - 127.0.0.1:38450-[] FTP session opened (connect)
+2025-05-20 23:38:04,485 - 127.0.0.1:38450-[admin] USER 'admin' logged in.
+2025-05-20 23:38:08,895 - 127.0.0.1:38450-[admin] STOR /tmp/ftp_honeypot/shell.sh completed=1 bytes=55 seconds=0.003
+2025-05-20 23:38:12,796 - 127.0.0.1:38450-[admin] FTP session closed (disconnect).
+2025-05-31 13:29:39,728 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-31 13:29:39,729 - [33mPress CTRL+C to quit[0m
+2025-05-31 13:30:08,074 - 127.0.0.1 - - [31/May/2025 13:30:08] "GET / HTTP/1.0" 200 -
+2025-05-31 13:30:08,096 - 127.0.0.1 - - [31/May/2025 13:30:08] "OPTIONS / HTTP/1.0" 200 -
+2025-05-31 13:30:08,107 - 127.0.0.1 - - [31/May/2025 13:30:08] code 400, message Bad request version ('RTSP/1.0')
+2025-05-31 13:30:08,108 - 127.0.0.1 - - [31/May/2025 13:30:08] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-05-31 13:30:13,111 - 127.0.0.1 - - [31/May/2025 13:30:13] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-05-31 13:30:13,111 - 127.0.0.1 - - [31/May/2025 13:30:13] "[31m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:30:17,141 - Exception (server): Error reading SSH protocol banner
+2025-05-31 13:30:17,144 - Traceback (most recent call last):
+2025-05-31 13:30:17,144 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2369, in _check_banner
+2025-05-31 13:30:17,144 -     buf = self.packetizer.readline(timeout)
+2025-05-31 13:30:17,144 -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-31 13:30:17,144 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 395, in readline
+2025-05-31 13:30:17,144 -     buf += self._read_timeout(timeout)
+2025-05-31 13:30:17,144 -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-31 13:30:17,144 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 673, in _read_timeout
+2025-05-31 13:30:17,144 -     raise socket.timeout()
+2025-05-31 13:30:17,144 - TimeoutError
+2025-05-31 13:30:17,144 - 
+2025-05-31 13:30:17,144 - During handling of the above exception, another exception occurred:
+2025-05-31 13:30:17,144 - 
+2025-05-31 13:30:17,144 - Traceback (most recent call last):
+2025-05-31 13:30:17,145 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2185, in run
+2025-05-31 13:30:17,145 -     self._check_banner()
+2025-05-31 13:30:17,145 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2373, in _check_banner
+2025-05-31 13:30:17,145 -     raise SSHException(
+2025-05-31 13:30:17,145 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-05-31 13:30:17,145 - 
+2025-05-31 13:30:19,269 - 127.0.0.1 - - [31/May/2025 13:30:19] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-31 13:30:19,270 - 127.0.0.1 - - [31/May/2025 13:30:19] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-05-31 13:30:24,273 - 127.0.0.1 - - [31/May/2025 13:30:24] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-31 13:30:24,274 - 127.0.0.1 - - [31/May/2025 13:30:24] code 400, message Bad request syntax ('HELP')
+2025-05-31 13:30:24,274 - 127.0.0.1 - - [31/May/2025 13:30:24] "[31m[1m\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:30:24,274 - 127.0.0.1 - - [31/May/2025 13:30:24] "[31m[1mHELP[0m" 400 -
+2025-05-31 13:30:24,276 - 127.0.0.1 - - [31/May/2025 13:30:24] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-05-31 13:30:24,276 - 127.0.0.1 - - [31/May/2025 13:30:24] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-05-31 13:30:24,278 - 127.0.0.1 - - [31/May/2025 13:30:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+2025-05-31 13:30:24,278 - 127.0.0.1 - - [31/May/2025 13:30:24] "[31m[1m\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie: mstshash=nmap[0m" 400 -
+2025-05-31 13:30:24,279 - 127.0.0.1 - - [31/May/2025 13:30:24] code 400, message Bad request version ('\x00/\x00')
+2025-05-31 13:30:24,279 - 127.0.0.1 - - [31/May/2025 13:30:24] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-05-31 13:30:24,280 - 127.0.0.1 - - [31/May/2025 13:30:24] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+2025-05-31 13:30:24,280 - 127.0.0.1 - - [31/May/2025 13:30:24] "[31m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" 400 -
+2025-05-31 13:30:29,285 - 127.0.0.1 - - [31/May/2025 13:30:29] code 400, message Bad request version ('0.12\x00')
+2025-05-31 13:30:29,286 - 127.0.0.1 - - [31/May/2025 13:30:29] "[31m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-05-31 13:30:34,290 - 127.0.0.1 - - [31/May/2025 13:30:34] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-05-31 13:30:34,290 - 127.0.0.1 - - [31/May/2025 13:30:34] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:30:34,291 - 127.0.0.1 - - [31/May/2025 13:30:34] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-05-31 13:30:34,302 - 127.0.0.1 - - [31/May/2025 13:30:34] code 400, message Bad request syntax ('\x01default')
+2025-05-31 13:30:34,302 - 127.0.0.1 - - [31/May/2025 13:30:34] "[31m[1m\x01default[0m" 400 -
+2025-05-31 13:30:34,303 - 127.0.0.1 - - [31/May/2025 13:30:34] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+2025-05-31 13:30:34,303 - 127.0.0.1 - - [31/May/2025 13:30:34] "[31m[1m0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00[0m" 400 -
+2025-05-31 13:30:39,304 - 127.0.0.1 - - [31/May/2025 13:30:39] code 400, message Bad HTTP/0.9 request type ('0')
+2025-05-31 13:30:39,305 - 127.0.0.1 - - [31/May/2025 13:30:39] code 400, message Bad request version ('SIP/2.0')
+2025-05-31 13:30:39,305 - 127.0.0.1 - - [31/May/2025 13:30:39] "[31m[1m0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00[0m" 400 -
+2025-05-31 13:30:39,305 - 127.0.0.1 - - [31/May/2025 13:30:39] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-05-31 13:30:44,311 - 127.0.0.1 - - [31/May/2025 13:30:44] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+2025-05-31 13:30:44,312 - 127.0.0.1 - - [31/May/2025 13:30:44] "[31m[1mTNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00[0m" 400 -
+2025-05-31 13:30:50,668 - 127.0.0.1 - - [31/May/2025 13:30:50] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+2025-05-31 13:30:50,668 - 127.0.0.1 - - [31/May/2025 13:30:50] "[31m[1m\x03\x00\x00\x0b\x06à\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:30:55,673 - 127.0.0.1 - - [31/May/2025 13:30:55] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+2025-05-31 13:30:55,673 - 127.0.0.1 - - [31/May/2025 13:30:55] "[31m[1mDmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13[0m" 400 -
+2025-05-31 13:31:00,677 - 127.0.0.1 - - [31/May/2025 13:31:00] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+2025-05-31 13:31:00,678 - 127.0.0.1 - - [31/May/2025 13:31:00] "[31m[1m:\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:31:05,678 - 127.0.0.1 - - [31/May/2025 13:31:05] code 400, message Bad request syntax ('JRMI\x00\x02K')
+2025-05-31 13:31:05,681 - 127.0.0.1 - - [31/May/2025 13:31:05] "[31m[1mJRMI\x00\x02K[0m" 400 -
+2025-05-31 13:31:10,683 - 127.0.0.1 - - [31/May/2025 13:31:10] code 400, message Bad request version ('\x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+2025-05-31 13:31:10,684 - 127.0.0.1 - - [31/May/2025 13:31:10] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_[0m" 400 -
+2025-05-31 13:31:15,687 - 127.0.0.1 - - [31/May/2025 13:31:15] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+2025-05-31 13:31:15,688 - 127.0.0.1 - - [31/May/2025 13:31:15] "[31m[1m\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004æ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))[0m" 400 -
+2025-05-31 13:31:20,691 - 127.0.0.1 - - [31/May/2025 13:31:20] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+2025-05-31 13:31:20,691 - 127.0.0.1 - - [31/May/2025 13:31:20] "[31m[1m\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00[0m" 400 -
+2025-05-31 13:31:27,027 - 127.0.0.1 - - [31/May/2025 13:31:27] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+2025-05-31 13:31:27,027 - 127.0.0.1 - - [31/May/2025 13:31:27] "[31m[1m\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00[0m" 400 -
+2025-05-31 13:31:32,031 - 127.0.0.1 - - [31/May/2025 13:31:32] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2025-05-31 13:31:32,032 - 127.0.0.1 - - [31/May/2025 13:31:32] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:31:33,050 - 127.0.0.1 - - [31/May/2025 13:31:33] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(\x11G*¦\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+2025-05-31 13:31:33,051 - 127.0.0.1 - - [31/May/2025 13:31:33] "[31m[1m\x80\x00\x00(\x11G*¦\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:33:43,408 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-31 13:33:43,409 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-31 13:33:56,255 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-31 13:33:56,256 - 127.0.0.1 - - [31/May/2025 13:33:56] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-31 13:34:19,612 - concurrency model: async
+2025-05-31 13:34:19,612 - masquerade (NAT) address: None
+2025-05-31 13:34:19,612 - passive ports: None
+2025-05-31 13:34:19,612 - >>> starting FTP server on 0.0.0.0:2121, pid=7743 <<<
+2025-05-31 13:34:36,334 - 127.0.0.1:43052-[] FTP session opened (connect)
+2025-05-31 13:35:00,898 - 127.0.0.1:43052-[] USER 'password123' failed login.
+2025-05-31 13:35:02,274 - 127.0.0.1:43052-[] FTP session closed (disconnect).
+2025-05-31 13:35:03,680 - 127.0.0.1:35344-[] FTP session opened (connect)
+2025-05-31 13:35:08,006 - 127.0.0.1:35344-[admin] USER 'admin' logged in.
+2025-05-31 13:35:20,391 - 127.0.0.1:35344-[admin] CWD /tmp/ftp_honeypot/confidential 250
+2025-05-31 13:35:24,568 - 127.0.0.1:35344-[admin] RETR /tmp/ftp_honeypot/confidential/secret_plans.txt completed=1 bytes=141 seconds=0.002
+2025-05-31 13:35:31,887 - 127.0.0.1:35344-[admin] FTP session closed (disconnect).
+2025-05-31 13:35:58,377 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-31 13:35:58,377 - [33mPress CTRL+C to quit[0m
+2025-05-31 13:36:09,604 - 127.0.0.1 - - [31/May/2025 13:36:09] "GET / HTTP/1.0" 200 -
+2025-05-31 13:36:09,620 - 127.0.0.1 - - [31/May/2025 13:36:09] "OPTIONS / HTTP/1.0" 200 -
+2025-05-31 13:36:09,632 - 127.0.0.1 - - [31/May/2025 13:36:09] code 400, message Bad request version ('RTSP/1.0')
+2025-05-31 13:36:09,632 - 127.0.0.1 - - [31/May/2025 13:36:09] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-05-31 13:36:14,633 - 127.0.0.1 - - [31/May/2025 13:36:14] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-05-31 13:36:14,633 - 127.0.0.1 - - [31/May/2025 13:36:14] "[31m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:36:18,630 - Exception (server): Error reading SSH protocol banner
+2025-05-31 13:36:18,640 - Traceback (most recent call last):
+2025-05-31 13:36:18,640 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2369, in _check_banner
+2025-05-31 13:36:18,640 -     buf = self.packetizer.readline(timeout)
+2025-05-31 13:36:18,640 -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-31 13:36:18,640 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 395, in readline
+2025-05-31 13:36:18,640 -     buf += self._read_timeout(timeout)
+2025-05-31 13:36:18,640 -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-05-31 13:36:18,640 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/packet.py", line 673, in _read_timeout
+2025-05-31 13:36:18,640 -     raise socket.timeout()
+2025-05-31 13:36:18,640 - TimeoutError
+2025-05-31 13:36:18,640 - 
+2025-05-31 13:36:18,640 - During handling of the above exception, another exception occurred:
+2025-05-31 13:36:18,640 - 
+2025-05-31 13:36:18,640 - Traceback (most recent call last):
+2025-05-31 13:36:18,641 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2185, in run
+2025-05-31 13:36:18,641 -     self._check_banner()
+2025-05-31 13:36:18,641 -   File "/home/hamad/smart_honeypot_proj/.venv/lib/python3.12/site-packages/paramiko/transport.py", line 2373, in _check_banner
+2025-05-31 13:36:18,641 -     raise SSHException(
+2025-05-31 13:36:18,641 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-05-31 13:36:18,641 - 
+2025-05-31 13:36:19,638 - 127.0.0.1 - - [31/May/2025 13:36:19] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-31 13:36:19,638 - 127.0.0.1 - - [31/May/2025 13:36:19] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-05-31 13:36:24,643 - 127.0.0.1 - - [31/May/2025 13:36:24] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-05-31 13:36:24,645 - 127.0.0.1 - - [31/May/2025 13:36:24] "[31m[1m\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:36:24,647 - 127.0.0.1 - - [31/May/2025 13:36:24] code 400, message Bad request syntax ('HELP')
+2025-05-31 13:36:24,647 - 127.0.0.1 - - [31/May/2025 13:36:24] "[31m[1mHELP[0m" 400 -
+2025-05-31 13:36:24,653 - 127.0.0.1 - - [31/May/2025 13:36:24] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-05-31 13:36:24,653 - 127.0.0.1 - - [31/May/2025 13:36:24] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-05-31 13:36:24,658 - 127.0.0.1 - - [31/May/2025 13:36:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+2025-05-31 13:36:24,659 - 127.0.0.1 - - [31/May/2025 13:36:24] "[31m[1m\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie: mstshash=nmap[0m" 400 -
+2025-05-31 13:36:24,661 - 127.0.0.1 - - [31/May/2025 13:36:24] code 400, message Bad request version ('\x00/\x00')
+2025-05-31 13:36:24,661 - 127.0.0.1 - - [31/May/2025 13:36:24] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-05-31 13:36:24,665 - 127.0.0.1 - - [31/May/2025 13:36:24] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+2025-05-31 13:36:24,666 - 127.0.0.1 - - [31/May/2025 13:36:24] "[31m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" 400 -
+2025-05-31 13:36:31,061 - 127.0.0.1 - - [31/May/2025 13:36:31] code 400, message Bad request version ('0.12\x00')
+2025-05-31 13:36:31,061 - 127.0.0.1 - - [31/May/2025 13:36:31] "[31m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-05-31 13:36:36,065 - 127.0.0.1 - - [31/May/2025 13:36:36] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-05-31 13:36:36,066 - 127.0.0.1 - - [31/May/2025 13:36:36] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:36:36,072 - 127.0.0.1 - - [31/May/2025 13:36:36] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-05-31 13:36:36,083 - 127.0.0.1 - - [31/May/2025 13:36:36] code 400, message Bad request syntax ('\x01default')
+2025-05-31 13:36:36,083 - 127.0.0.1 - - [31/May/2025 13:36:36] "[31m[1m\x01default[0m" 400 -
+2025-05-31 13:36:36,085 - 127.0.0.1 - - [31/May/2025 13:36:36] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+2025-05-31 13:36:36,085 - 127.0.0.1 - - [31/May/2025 13:36:36] "[31m[1m0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00[0m" 400 -
+2025-05-31 13:36:41,091 - 127.0.0.1 - - [31/May/2025 13:36:41] code 400, message Bad HTTP/0.9 request type ('0')
+2025-05-31 13:36:41,094 - 127.0.0.1 - - [31/May/2025 13:36:41] code 400, message Bad request version ('SIP/2.0')
+2025-05-31 13:36:41,094 - 127.0.0.1 - - [31/May/2025 13:36:41] "[31m[1m0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00[0m" 400 -
+2025-05-31 13:36:41,095 - 127.0.0.1 - - [31/May/2025 13:36:41] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-05-31 13:36:46,104 - 127.0.0.1 - - [31/May/2025 13:36:46] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+2025-05-31 13:36:46,105 - 127.0.0.1 - - [31/May/2025 13:36:46] "[31m[1mTNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00[0m" 400 -
+2025-05-31 13:36:51,109 - 127.0.0.1 - - [31/May/2025 13:36:51] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+2025-05-31 13:36:51,110 - 127.0.0.1 - - [31/May/2025 13:36:51] "[31m[1m\x03\x00\x00\x0b\x06à\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:36:56,113 - 127.0.0.1 - - [31/May/2025 13:36:56] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+2025-05-31 13:36:56,113 - 127.0.0.1 - - [31/May/2025 13:36:56] "[31m[1mDmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13[0m" 400 -
+2025-05-31 13:37:02,501 - 127.0.0.1 - - [31/May/2025 13:37:02] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+2025-05-31 13:37:02,502 - 127.0.0.1 - - [31/May/2025 13:37:02] "[31m[1m:\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:37:07,504 - 127.0.0.1 - - [31/May/2025 13:37:07] code 400, message Bad request syntax ('JRMI\x00\x02K')
+2025-05-31 13:37:07,505 - 127.0.0.1 - - [31/May/2025 13:37:07] "[31m[1mJRMI\x00\x02K[0m" 400 -
+2025-05-31 13:37:12,507 - 127.0.0.1 - - [31/May/2025 13:37:12] code 400, message Bad request version ('\x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+2025-05-31 13:37:12,508 - 127.0.0.1 - - [31/May/2025 13:37:12] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_[0m" 400 -
+2025-05-31 13:37:17,513 - 127.0.0.1 - - [31/May/2025 13:37:17] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+2025-05-31 13:37:17,514 - 127.0.0.1 - - [31/May/2025 13:37:17] "[31m[1m\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004æ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))[0m" 400 -
+2025-05-31 13:37:22,519 - 127.0.0.1 - - [31/May/2025 13:37:22] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+2025-05-31 13:37:22,521 - 127.0.0.1 - - [31/May/2025 13:37:22] "[31m[1m\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00[0m" 400 -
+2025-05-31 13:37:27,521 - 127.0.0.1 - - [31/May/2025 13:37:27] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+2025-05-31 13:37:27,523 - 127.0.0.1 - - [31/May/2025 13:37:27] "[31m[1m\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00[0m" 400 -
+2025-05-31 13:37:32,525 - 127.0.0.1 - - [31/May/2025 13:37:32] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2025-05-31 13:37:32,526 - 127.0.0.1 - - [31/May/2025 13:37:32] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:37:34,144 - 127.0.0.1 - - [31/May/2025 13:37:34] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(\x02³?a\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+2025-05-31 13:37:34,144 - 127.0.0.1 - - [31/May/2025 13:37:34] "[31m[1m\x80\x00\x00(\x02³?a\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-05-31 13:37:52,996 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,089 - Auth rejected (none).
+2025-05-31 13:37:53,089 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,312 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,315 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,317 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,318 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,370 - Auth rejected (none).
+2025-05-31 13:37:53,370 - Auth rejected (none).
+2025-05-31 13:37:53,371 - Auth rejected (none).
+2025-05-31 13:37:53,371 - Auth rejected (none).
+2025-05-31 13:37:53,371 - Client 127.0.0.1 attempted connection with username: admin, password: root
+2025-05-31 13:37:53,372 - Client 127.0.0.1 attempted connection with username: admin, password: 123456
+2025-05-31 13:37:53,372 - Client 127.0.0.1 attempted connection with username: admin, password: admin
+2025-05-31 13:37:53,373 - 127.0.0.1, admin, root
+2025-05-31 13:37:53,372 - Client 127.0.0.1 attempted connection with username: admin, password: admin123
+2025-05-31 13:37:53,374 - Auth rejected (password).
+2025-05-31 13:37:53,374 - 127.0.0.1, admin, 123456
+2025-05-31 13:37:53,374 - 127.0.0.1, admin, admin
+2025-05-31 13:37:53,375 - 127.0.0.1, admin, admin123
+2025-05-31 13:37:53,375 - Auth rejected (password).
+2025-05-31 13:37:53,375 - Auth rejected (password).
+2025-05-31 13:37:53,375 - Client 127.0.0.1 attempted connection with username: admin, password: toor
+2025-05-31 13:37:53,375 - Auth rejected (password).
+2025-05-31 13:37:53,376 - 127.0.0.1, admin, toor
+2025-05-31 13:37:53,376 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,376 - Auth rejected (password).
+2025-05-31 13:37:53,385 - Client 127.0.0.1 attempted connection with username: admin, password: 12345
+2025-05-31 13:37:53,386 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,386 - 127.0.0.1, admin, 12345
+2025-05-31 13:37:53,387 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,387 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,387 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,388 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,390 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,390 - Auth rejected (password).
+2025-05-31 13:37:53,391 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,397 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,398 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,439 - Auth rejected (none).
+2025-05-31 13:37:53,440 - Auth rejected (none).
+2025-05-31 13:37:53,440 - Auth rejected (none).
+2025-05-31 13:37:53,440 - Client 127.0.0.1 attempted connection with username: root , password: admin
+2025-05-31 13:37:53,440 - Client 127.0.0.1 attempted connection with username: root , password: 123456
+2025-05-31 13:37:53,440 - 127.0.0.1, root , admin
+2025-05-31 13:37:53,440 - Client 127.0.0.1 attempted connection with username: root , password: root
+2025-05-31 13:37:53,440 - 127.0.0.1, root , 123456
+2025-05-31 13:37:53,441 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,441 - Auth rejected (password).
+2025-05-31 13:37:53,441 - 127.0.0.1, root , root
+2025-05-31 13:37:53,441 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,441 - Auth rejected (password).
+2025-05-31 13:37:53,441 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,441 - Client 127.0.0.1 attempted connection with username: root , password: toor
+2025-05-31 13:37:53,441 - Auth rejected (password).
+2025-05-31 13:37:53,441 - 127.0.0.1, root , toor
+2025-05-31 13:37:53,442 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,442 - Auth rejected (password).
+2025-05-31 13:37:53,449 - Auth rejected (none).
+2025-05-31 13:37:53,449 - Client 127.0.0.1 attempted connection with username: root , password: admin123
+2025-05-31 13:37:53,449 - 127.0.0.1, root , admin123
+2025-05-31 13:37:53,449 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,449 - Auth rejected (password).
+2025-05-31 13:37:53,451 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,451 - Client 127.0.0.1 attempted connection with username: root , password: 12345
+2025-05-31 13:37:53,452 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,452 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,453 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,453 - 127.0.0.1, root , 12345
+2025-05-31 13:37:53,454 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,454 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,455 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,457 - Auth rejected (password).
+2025-05-31 13:37:53,463 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,465 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,466 - Auth rejected (none).
+2025-05-31 13:37:53,467 - Client 127.0.0.1 attempted connection with username: hamad, password: admin123
+2025-05-31 13:37:53,467 - 127.0.0.1, hamad, admin123
+2025-05-31 13:37:53,467 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,467 - Auth rejected (password).
+2025-05-31 13:37:53,472 - Client 127.0.0.1 attempted connection with username: hamad, password: toor
+2025-05-31 13:37:53,472 - 127.0.0.1, hamad, toor
+2025-05-31 13:37:53,472 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,472 - Auth rejected (password).
+2025-05-31 13:37:53,482 - Client 127.0.0.1 attempted connection with username: hamad, password: 12345
+2025-05-31 13:37:53,482 - 127.0.0.1, hamad, 12345
+2025-05-31 13:37:53,482 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,482 - Auth rejected (password).
+2025-05-31 13:37:53,492 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,493 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,494 - Auth rejected (none).
+2025-05-31 13:37:53,494 - Client 127.0.0.1 attempted connection with username: username, password: 123456
+2025-05-31 13:37:53,494 - 127.0.0.1, username, 123456
+2025-05-31 13:37:53,494 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,494 - Auth rejected (password).
+2025-05-31 13:37:53,502 - Client 127.0.0.1 attempted connection with username: username, password: admin
+2025-05-31 13:37:53,502 - 127.0.0.1, username, admin
+2025-05-31 13:37:53,502 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,502 - Auth rejected (password).
+2025-05-31 13:37:53,509 - Auth rejected (none).
+2025-05-31 13:37:53,509 - Auth rejected (none).
+2025-05-31 13:37:53,509 - Client 127.0.0.1 attempted connection with username: hamad, password: root
+2025-05-31 13:37:53,510 - 127.0.0.1, hamad, root
+2025-05-31 13:37:53,510 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,510 - Auth rejected (password).
+2025-05-31 13:37:53,510 - Client 127.0.0.1 attempted connection with username: hamad, password: 123456
+2025-05-31 13:37:53,510 - 127.0.0.1, hamad, 123456
+2025-05-31 13:37:53,510 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,510 - Auth rejected (password).
+2025-05-31 13:37:53,512 - Client 127.0.0.1 attempted connection with username: username, password: root
+2025-05-31 13:37:53,512 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,513 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,512 - 127.0.0.1, username, root
+2025-05-31 13:37:53,513 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,514 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,514 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,514 - Auth rejected (password).
+2025-05-31 13:37:53,517 - Auth rejected (none).
+2025-05-31 13:37:53,517 - Client 127.0.0.1 attempted connection with username: username, password: admin123
+2025-05-31 13:37:53,517 - 127.0.0.1, username, admin123
+2025-05-31 13:37:53,517 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,517 - Auth rejected (password).
+2025-05-31 13:37:53,519 - Auth rejected (none).
+2025-05-31 13:37:53,519 - Client 127.0.0.1 attempted connection with username: hamad, password: admin
+2025-05-31 13:37:53,519 - 127.0.0.1, hamad, admin
+2025-05-31 13:37:53,519 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,519 - Auth rejected (password).
+2025-05-31 13:37:53,522 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-31 13:37:53,522 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,523 - 127.0.0.1, username, 12345
+2025-05-31 13:37:53,523 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,523 - Auth granted (password).
+2025-05-31 13:37:53,523 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,525 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,543 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,544 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,546 - Auth rejected (none).
+2025-05-31 13:37:53,546 - Client 127.0.0.1 attempted connection with username: john , password: root
+2025-05-31 13:37:53,546 - 127.0.0.1, john , root
+2025-05-31 13:37:53,546 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,546 - Auth rejected (password).
+2025-05-31 13:37:53,553 - Client 127.0.0.1 attempted connection with username: john , password: admin123
+2025-05-31 13:37:53,553 - 127.0.0.1, john , admin123
+2025-05-31 13:37:53,553 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,553 - Auth rejected (password).
+2025-05-31 13:37:53,563 - Client 127.0.0.1 attempted connection with username: john , password: toor
+2025-05-31 13:37:53,563 - 127.0.0.1, john , toor
+2025-05-31 13:37:53,563 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,563 - Auth rejected (password).
+2025-05-31 13:37:53,569 - Auth rejected (none).
+2025-05-31 13:37:53,569 - Auth rejected (none).
+2025-05-31 13:37:53,569 - Client 127.0.0.1 attempted connection with username: username, password: toor
+2025-05-31 13:37:53,570 - 127.0.0.1, username, toor
+2025-05-31 13:37:53,570 - Client 127.0.0.1 attempted connection with username: john , password: 123456
+2025-05-31 13:37:53,570 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,570 - Auth rejected (password).
+2025-05-31 13:37:53,570 - 127.0.0.1, john , 123456
+2025-05-31 13:37:53,570 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,570 - Auth rejected (password).
+2025-05-31 13:37:53,573 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,573 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,573 - Client 127.0.0.1 attempted connection with username: john , password: 12345
+2025-05-31 13:37:53,574 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,574 - 127.0.0.1, john , 12345
+2025-05-31 13:37:53,575 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,575 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,577 - Auth rejected (password).
+2025-05-31 13:37:53,579 - Auth rejected (none).
+2025-05-31 13:37:53,579 - Client 127.0.0.1 attempted connection with username: john , password: admin
+2025-05-31 13:37:53,579 - 127.0.0.1, john , admin
+2025-05-31 13:37:53,579 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,579 - Auth rejected (password).
+2025-05-31 13:37:53,583 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,583 - Disconnect (code 11): Bye Bye
+2025-05-31 13:37:53,584 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,585 - Connected (version 2.0, client libssh_0.10.6)
+2025-05-31 13:37:53,588 - Auth rejected (none).
+2025-05-31 13:37:53,588 - Client 127.0.0.1 attempted connection with username: test , password: admin123
+2025-05-31 13:37:53,588 - 127.0.0.1, test , admin123
+2025-05-31 13:37:53,588 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,588 - Auth rejected (password).
+2025-05-31 13:37:53,593 - Client 127.0.0.1 attempted connection with username: test , password: toor
+2025-05-31 13:37:53,593 - 127.0.0.1, test , toor
+2025-05-31 13:37:53,593 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,593 - Auth rejected (password).
+2025-05-31 13:37:53,603 - Client 127.0.0.1 attempted connection with username: test , password: 12345
+2025-05-31 13:37:53,603 - 127.0.0.1, test , 12345
+2025-05-31 13:37:53,603 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,603 - Auth rejected (password).
+2025-05-31 13:37:53,619 - Auth rejected (none).
+2025-05-31 13:37:53,619 - Auth rejected (none).
+2025-05-31 13:37:53,619 - Client 127.0.0.1 attempted connection with username: test , password: 123456
+2025-05-31 13:37:53,620 - Client 127.0.0.1 attempted connection with username: test , password: admin
+2025-05-31 13:37:53,620 - 127.0.0.1, test , 123456
+2025-05-31 13:37:53,620 - 127.0.0.1, test , admin
+2025-05-31 13:37:53,620 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,620 - Auth rejected (password).
+2025-05-31 13:37:53,620 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,620 - Auth rejected (password).
+2025-05-31 13:37:53,629 - Auth rejected (none).
+2025-05-31 13:37:53,629 - Client 127.0.0.1 attempted connection with username: test , password: root
+2025-05-31 13:37:53,629 - 127.0.0.1, test , root
+2025-05-31 13:37:53,629 - Brute-force detected from 127.0.0.1 — blocking further attempts.
+2025-05-31 13:37:53,629 - Auth rejected (password).
+2025-05-31 13:38:20,011 - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-05-31 13:38:20,016 - Auth rejected (none).
+2025-05-31 13:38:22,448 - Client 127.0.0.1 attempted connection with username: username, password: 12345
+2025-05-31 13:38:22,448 - 127.0.0.1, username, 12345
+2025-05-31 13:38:22,448 - Auth granted (password).
+2025-05-31 13:38:24,394 - Command b'ls'executed by 127.0.0.1
+2025-05-31 13:38:29,427 - Command b'cat notes.txt'executed by 127.0.0.1
+2025-05-31 13:38:41,845 - IP: 127.0.0.1, Query: wp-admin-panel.localhost., Type: A
+2025-05-31 13:38:41,846 - [ALERT] 🚨 Sensitive domain queried: wp-admin-panel.localhost. from IP: 127.0.0.1
+2025-05-31 13:38:45,703 - IP 127.0.0.1 tried directory traversal: /etc/passwd
+2025-05-31 13:38:45,703 - 127.0.0.1 - - [31/May/2025 13:38:45] "GET /etc/passwd HTTP/1.1" 200 -
+2025-05-31 13:38:59,512 - concurrency model: async
+2025-05-31 13:38:59,512 - masquerade (NAT) address: None
+2025-05-31 13:38:59,512 - passive ports: None
+2025-05-31 13:38:59,512 - >>> starting FTP server on 0.0.0.0:2121, pid=9055 <<<
+2025-05-31 13:39:11,281 - 127.0.0.1:53372-[] FTP session opened (connect)
+2025-05-31 13:39:18,598 - 127.0.0.1:53372-[admin] USER 'admin' logged in.
+2025-05-31 13:39:25,385 - 127.0.0.1:53372-[admin] CWD /tmp/ftp_honeypot/confidential 250
+2025-05-31 13:39:28,241 - 127.0.0.1:53372-[admin] RETR /tmp/ftp_honeypot/confidential/secret_plans.txt completed=1 bytes=141 seconds=0.0
+2025-05-31 13:39:37,966 - 127.0.0.1:53372-[admin] STOR /tmp/ftp_honeypot/confidential/shell.sh completed=1 bytes=55 seconds=0.001
+2025-05-31 13:39:42,740 - 127.0.0.1:53372-[admin] FTP session closed (disconnect).

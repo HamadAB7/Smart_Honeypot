@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WordPress Admin Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e5e5e5;
+            margin: 0;
+        }
+        header {
+            background-color: #23282d;
+            color: white;
+            padding: 10px 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        nav {
+            background-color: #32373c;
+            width: 200px;
+            height: 100vh;
+            float: left;
+            color: white;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            padding: 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        nav ul li a:hover {
+            background-color: #0073aa;
+            display: block;
+        }
+        main {
+            margin-left: 200px;
+            padding: 20px;
+        }
+        .fake-files {
+            margin-top: 20px;
+        }
+        .fake-files a {
+            display: block;
+            color: #0073aa;
+            margin: 5px 0;
+        }
+        .fake-files a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome Admin</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="/wp-config.php">Site Settings</a></li>
+            <li><a href="/etc/passwd">User Access File</a></li>
+            <li><a href="/backup.zip">Database Backup</a></li>
+            <li><a href="/wp-json/">API Explorer</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h2>Dashboard Overview</h2>
+        <p>This is a test WordPress honeypot panel designed to attract suspicious behavior.</p>
+
+        <div class="fake-files">
+            <h3>Recently Modified Files</h3>
+            <a href="/wp-content/themes/twentyseventeen/functions.php">functions.php</a>
+            <a href="/wp-content/plugins/seopack/index.php">seopack/index.php</a>
+            <a href="/wp-admin/load-scripts.php">load-scripts.php</a>
+        </div>
+    </main>
+
+</body>
+</html>
+
