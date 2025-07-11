@@ -1,6 +1,0 @@
-admin
-root 
-hamad
-username
-john 
-test 
